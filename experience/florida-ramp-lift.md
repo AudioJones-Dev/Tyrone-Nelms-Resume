@@ -2,7 +2,7 @@
 
 ## Role
 
-ADA and Mobile Lift Technician / Marketing & Operations Professional
+Independent Contractor — ADA and Mobile Lift Technician / Marketing & Operations Professional
 
 ## Location
 
@@ -12,7 +12,7 @@ Florida
 
 July 2023 – Present
 
-Status: needs public-date confirmation. The 2024 resume lists July 2023 – April 2024, but current context indicates ongoing work after April 2024.
+Status: verified_current. User confirmed ongoing service as an independent contractor.
 
 ## Summary
 
@@ -42,6 +42,7 @@ Field operations and marketing/operations role supporting ADA accessibility, ram
 - Customer communication
 - Process improvement
 - Marketing operations
+- Independent contractor service delivery
 
 ## Public Positioning Guidance
 
@@ -53,7 +54,5 @@ For technical resumes, do not overstate formal engineering or licensed technicia
 
 ## TODO
 
-- Confirm exact public title.
-- Confirm date range.
 - Confirm whether the 20% cost reduction can be supported with evidence.
 - Add specific equipment types only where accurate and publicly shareable.
