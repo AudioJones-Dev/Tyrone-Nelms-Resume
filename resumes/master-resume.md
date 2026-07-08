@@ -1,7 +1,10 @@
 # Tyrone Nelms
 
 Miami / Hialeah, Florida  
-Contact: TODO — confirm preferred public email, phone, LinkedIn, and portfolio links before export.
+Email: Tyrone.nelms87@gmail.com  
+Phone: 786-280-4470  
+LinkedIn: TODO  
+Portfolio / Website: TODO
 
 ## Professional Summary
 
@@ -37,8 +40,8 @@ April 2020 – Present
 
 ### Florida Ramp & Lift
 
-**ADA and Mobile Lift Technician / Marketing & Operations Professional**  
-July 2023 – Present — TODO confirm public date range
+**Independent Contractor — ADA and Mobile Lift Technician / Marketing & Operations Professional**  
+July 2023 – Present
 
 - Provide field support for ADA accessibility, ramp, and mobile lift service operations.
 - Support technical troubleshooting, logistics coordination, customer communication, and field execution.
@@ -57,8 +60,8 @@ February 2022 – Present
 
 ### AHLO Inc.
 
-**Operations / Sales / Office Administration**  
-Date range TODO — reconcile multiple resume versions
+**Consolidated Operations / Sales / Office Administration**  
+Multiple periods — consolidated entry
 
 - Supported data entry, shipping, receiving, order management, customer service, and administrative operations.
 - Placed orders and answered customer questions in person, by email, and over the phone.
@@ -70,7 +73,7 @@ Date range TODO — reconcile multiple resume versions
 ### UnitedHealthcare
 
 **Provider Services Representative**  
-Date range TODO — reconcile source variants
+Date range approximate — exact dates fuzzy / needs verification
 
 - Answered inbound calls to provide information, answer questions, and discuss payment options.
 - Researched customer and provider issues to understand problems and develop successful resolutions.
@@ -80,7 +83,7 @@ Date range TODO — reconcile source variants
 ### Alorica
 
 **Commercial Account Specialist Sr. Rep**  
-January 2015 – TODO
+January 2015 – approximate end date fuzzy / needs verification
 
 - Used systems including Salesforce, RightNow, SharePoint, STMS, OMS, RIO, and DocDNA to resolve customer and commercial account issues.
 - Made outbound calls to clients, authorized dealers, and technicians to resolve caller questions and issues.
@@ -122,11 +125,9 @@ Salesforce, HubSpot, SharePoint, RightNow, STMS, OMS, RIO, DocDNA, ClickUp, Asan
 
 ## Resume TODO Before Public Use
 
-- Confirm preferred public contact details.
-- Confirm exact Alorica end date.
-- Confirm UnitedHealthcare exact dates.
-- Confirm AHLO timeline and whether to consolidate or split roles.
-- Confirm Florida Ramp & Lift public date range and title.
-- Add LinkedIn URL and portfolio links.
+- Confirm LinkedIn URL and portfolio links.
+- Confirm whether to use approximate year-only dates for fuzzy older roles.
+- Confirm exact Alorica end date if employment records are available.
+- Confirm UnitedHealthcare exact dates if employment records are available.
 - Add certificate issue dates and exact names.
 - Remove or verify all TODO claims before exporting PDF/DOCX.
