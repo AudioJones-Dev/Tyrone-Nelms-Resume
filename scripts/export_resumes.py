@@ -111,8 +111,17 @@ def markdown_to_html(src: Path, out: Path, variant: str, pandoc: list[str]) -> N
         header.unlink(missing_ok=True)
 
 
+def run_captured(cmd: list[str]) -> None:
+    """Run a command, surfacing captured stderr if it fails."""
+    try:
+        subprocess.run(cmd, check=True, capture_output=True)
+    except subprocess.CalledProcessError as e:
+        stderr = e.stderr.decode(errors="replace") if e.stderr else str(e)
+        sys.exit(f"command failed: {cmd[0]}\n{stderr}")
+
+
 def html_to_pdf_chrome(browser: str, html: Path, pdf: Path) -> None:
-    subprocess.run(
+    run_captured(
         [
             browser,
             "--headless",
@@ -121,15 +130,13 @@ def html_to_pdf_chrome(browser: str, html: Path, pdf: Path) -> None:
             f"--print-to-pdf={pdf}",
             "--no-pdf-header-footer",
             html.resolve().as_uri(),
-        ],
-        check=True,
-        capture_output=True,
+        ]
     )
 
 
 def docx_to_pdf_soffice(soffice: str, docx: Path) -> None:
     # soffice exits 0 even on failure; output existence is checked by caller.
-    subprocess.run(
+    run_captured(
         [
             soffice,
             "--headless",
@@ -138,9 +145,7 @@ def docx_to_pdf_soffice(soffice: str, docx: Path) -> None:
             "--outdir",
             str(EXPORTS_DIR),
             str(docx.resolve()),
-        ],
-        check=True,
-        capture_output=True,
+        ]
     )
 
 
@@ -184,6 +189,9 @@ def export_variant(
                 "Writer, or set RESUME_PDF_ENGINE."
             )
         kind, path = pdf_engine
+        # Remove any prior output so the existence check below can only
+        # pass on a PDF produced by this run (soffice can fail silently).
+        pdf_out.unlink(missing_ok=True)
         if kind == "chrome":
             html_to_pdf_chrome(path, html_out, pdf_out)
         else:

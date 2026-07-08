@@ -9,11 +9,17 @@ on:
       - ".github/workflows/export-resumes.yml"
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   export:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - name: Install pandoc
         run: sudo apt-get update && sudo apt-get install -y pandoc

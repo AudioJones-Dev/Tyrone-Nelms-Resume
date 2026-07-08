@@ -77,5 +77,7 @@ a {
   li,
   p {
     break-inside: avoid;
+    orphans: 2;
+    widows: 2;
   }
 }
