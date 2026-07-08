@@ -1,4 +1,4 @@
-# Tyrone Nelms Career Operating System
+# Tyrone Nelms Professional Operating System
 
 Canonical source of truth for Tyrone Nelms' professional experience, accomplishments, certifications, resumes, LinkedIn profile, portfolio material, and executive positioning.
 
@@ -35,9 +35,9 @@ Start at [`docs/index.md`](docs/index.md) for a full index of all records, draft
 
 ## Repository Status
 
-Career OS v0.1 is under construction.
+The Professional OS is under active construction. The canonical knowledge base, strategic positioning layer, resume variants, LinkedIn OS, executive/capability layer, and export pipeline exist; publication surfaces (portfolio, GitHub Pages) are still ahead.
 
-The first milestone is building the canonical knowledge base before generating final resumes.
+Naming note: this repository began as the "Career OS" (see CHANGELOG v0.1). It was renamed to Professional Operating System because its scope outgrew resumes — it now generates resumes, LinkedIn copy, bios, capability statements, and exports from one evidence-governed record. Historical release titles in the changelog keep the original name.
 
 ## Core Folders
 

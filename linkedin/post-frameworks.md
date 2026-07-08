@@ -50,7 +50,7 @@ Best for Pillar 2. High-save-rate format.
 Pillar 4 only (gated — see `content-pillars.md`).
 
 ```text
-[What changed in the Career OS this week]
+[What changed in the Professional OS this week]
 [The governance decision behind it (gates, tiers, verification)]
 [The general principle any professional could apply]
 ```

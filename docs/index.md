@@ -1,6 +1,6 @@
-# Career OS Index
+# Professional OS Index
 
-Navigation hub for the Tyrone Nelms Career Operating System.
+Navigation hub for the Tyrone Nelms Professional Operating System.
 
 ## Start Here
 
