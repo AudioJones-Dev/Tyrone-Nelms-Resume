@@ -1,6 +1,6 @@
 # Professional Brand
 
-Brand system for all outward-facing surfaces. Framing derives from [`career-positioning.md`](career-positioning.md); facts derive from the canonical records. LinkedIn-specific drafts live in [`linkedin/profile-draft.md`](../linkedin/profile-draft.md) and must stay consistent with this file.
+Brand system for all outward-facing surfaces. Framing derives from [`career-positioning.md`](career-positioning.md); facts derive from the canonical records. LinkedIn-specific copy lives in the [LinkedIn OS](../linkedin/README.md) and must stay consistent with this file.
 
 ## Name & Identity
 
@@ -49,7 +49,7 @@ Add to the short pitch: the stacked-career narrative from `career-positioning.md
 | Surface | Register | Notes |
 |---|---|---|
 | Resumes / ATS | Formal, bullet-driven | Conventions in `resumes/README.md` govern |
-| LinkedIn | Professional-conversational | Guardrails in `linkedin/profile-draft.md` govern; headline from the Title System above |
+| LinkedIn | Professional-conversational | The [LinkedIn OS](../linkedin/README.md) governs; headline from the Title System above |
 | AJ Digital site / proposals | Plain-business, client-outcome-first | Case studies only per `case-studies.md` gates |
 | Speaker bios | Third person, ≤120 words | Base text in `achievement-library.md` phrasings |
 | GitHub / technical | Direct, spec-like | This repository's own conventions |

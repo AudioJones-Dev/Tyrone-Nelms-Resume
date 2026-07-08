@@ -41,7 +41,7 @@ Per [`target-roles.md`](target-roles.md) tiers:
 ## Language Register
 
 - Default register: accessible business language ("workflow automation", "business systems", "customer experience systems").
-- Technical register ("AI operations", "agents", "orchestration") only for AI-specific audiences — same rule as the LinkedIn guardrails in `linkedin/profile-draft.md`.
+- Technical register ("AI operations", "agents", "orchestration") only for AI-specific audiences — same rule as the LinkedIn keyword rules in `linkedin/headline.md`.
 - Never use internal codenames (e.g., Founder Intelligence Systems) with audiences that have no context for them, per the guardrails in `target-roles.md`.
 
 ## Positioning Guardrails (inherited, restated)
