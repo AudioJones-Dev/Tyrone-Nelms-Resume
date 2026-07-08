@@ -66,7 +66,7 @@ Tyrone Nelms is the founder of AJ Digital, an operations and AI consulting pract
 
 ### Extended
 
-Compose from the Standard block plus the narrative arc in `career-positioning.md` when a longer bio is required. Do not maintain a third static copy.
+Full deploy-ready bio variants (founder, consultant, speaker, media, short, executive summary) live in [`bios/`](../bios/README.md) and derive from these blocks. The micro and standard blocks above remain the atoms — if they change, the `bios/` variants change the same day.
 
 ## Consistency Checklist (run before publishing any surface)
 

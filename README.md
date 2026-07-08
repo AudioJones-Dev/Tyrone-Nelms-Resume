@@ -45,11 +45,12 @@ The first milestone is building the canonical knowledge base before generating f
 - `experience/` — role-level experience files by employer or project.
 - `resumes/` — generated or hand-curated resume variants.
 - `linkedin/` — LinkedIn headline, about section, and experience copy.
+- `bios/` — short, founder, consultant, speaker, and media bios plus the executive summary.
+- `capability-statements/` — AJ Digital service-line capability statements.
 - `templates/` — reusable content templates.
-- `exports/` — generated PDF, DOCX, and HTML outputs (none yet).
+- `exports/` — generated PDF, DOCX, and HTML outputs (via `scripts/export_resumes.py`).
 
 Planned folders, to be added when their first content lands:
 
 - `portfolio/` — public-facing case studies and project summaries.
-- `bios/` — short, medium, and executive bios.
 - `evidence/` — supporting proof points, links, and source notes.

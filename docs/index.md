@@ -47,6 +47,14 @@ Internal source records, not public polished copy. See the [experience README](.
 - [Project Manager Resume (draft)](../resumes/project-manager.md)
 - [Customer Success Resume (draft)](../resumes/customer-success.md)
 - [Digital Marketing Resume (draft)](../resumes/digital-marketing.md)
+- [Executive Bio Resume (draft)](../resumes/executive-bio-resume.md) — executive lens, not an ATS variant
+
+## Executive & Capability Layer (`bios/`, `capability-statements/`)
+
+Reusable executive positioning above the resume variants — not resumes.
+
+- [Bios](../bios/README.md) — short, founder, consultant, speaker, media bios and the one-page executive summary
+- [Capability Statements](../capability-statements/README.md) — AI operations, operations systems, project management, digital transformation
 
 ## LinkedIn (`linkedin/`)
 
