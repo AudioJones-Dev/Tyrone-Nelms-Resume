@@ -47,7 +47,7 @@ Internal source records, not public polished copy. See the [experience README](.
 - [Project Manager Resume (draft)](../resumes/project-manager.md)
 - [Customer Success Resume (draft)](../resumes/customer-success.md)
 - [Digital Marketing Resume (draft)](../resumes/digital-marketing.md)
-- [LinkedIn Profile Draft](../linkedin/profile-draft.md)
+- [LinkedIn OS](../linkedin/README.md) — headline, About, experience entries, featured plan, content system, outreach
 
 ## Templates & Exports
 

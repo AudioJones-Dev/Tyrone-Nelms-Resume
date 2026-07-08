@@ -4,6 +4,7 @@
 
 ### Added
 
+- LinkedIn OS (`linkedin/`): canonical repository for the entire LinkedIn presence — `headline.md`, `about.md`, `experience.md`, `featured.md`, `recommendations.md` (profile surfaces) and `creator-positioning.md`, `content-pillars.md`, `post-frameworks.md`, `connection-messages.md`, `outreach.md` (growth surfaces), with a `README.md` deployment tracker. The live profile becomes a deployment target of these files.
 - Strategic layer above the canonical records: `docs/career-positioning.md`, `docs/professional-brand.md`, `docs/achievement-library.md`, `docs/interview-playbook.md`, `docs/case-studies.md`. Future resumes, LinkedIn copy, bios, proposals, and case studies derive framing from these files and facts from the canonical records.
 - Five role-targeted resume variants derived from canonical records: `resumes/ai-operations-consultant.md`, `resumes/operations-manager.md`, `resumes/project-manager.md`, `resumes/customer-success.md`, `resumes/digital-marketing.md`.
 - `.gitignore` for OS/editor artifacts and unreleased export binaries.
@@ -17,6 +18,10 @@
 - `resumes/README.md` — variant list updated to reflect created drafts and documents the shared variant conventions (contact, approximate dating, excluded unverified claims).
 - README now links to the navigation index and separates planned folders from existing ones.
 - Master resume Doctors Diabetics title aligned to the canonical career history (Medical Records Clerk).
+
+### Removed
+
+- `linkedin/profile-draft.md` — fully migrated into the LinkedIn OS (headlines → `linkedin/headline.md`, About → `linkedin/about.md`, featured ideas → `linkedin/featured.md`, guardrails absorbed into `linkedin/README.md` rules).
 
 ## v0.1 — Career OS Foundation
 
