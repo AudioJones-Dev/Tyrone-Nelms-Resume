@@ -32,6 +32,11 @@ Internal source records, not public polished copy. See the [experience README](.
 ## Output Drafts
 
 - [Master Resume (draft)](../resumes/master-resume.md) — see the [resumes README](../resumes/README.md)
+- [AI Operations Consultant Resume (draft)](../resumes/ai-operations-consultant.md)
+- [Operations Manager Resume (draft)](../resumes/operations-manager.md)
+- [Project Manager Resume (draft)](../resumes/project-manager.md)
+- [Customer Success Resume (draft)](../resumes/customer-success.md)
+- [Digital Marketing Resume (draft)](../resumes/digital-marketing.md)
 - [LinkedIn Profile Draft](../linkedin/profile-draft.md)
 
 ## Templates & Exports

@@ -4,6 +4,7 @@
 
 ### Added
 
+- Five role-targeted resume variants derived from canonical records: `resumes/ai-operations-consultant.md`, `resumes/operations-manager.md`, `resumes/project-manager.md`, `resumes/customer-success.md`, `resumes/digital-marketing.md`.
 - `.gitignore` for OS/editor artifacts and unreleased export binaries.
 - `CONTRIBUTING.md` with editing rules and factual-accuracy guardrails.
 - `docs/index.md` navigation index linking all major files.
@@ -11,6 +12,8 @@
 
 ### Changed
 
+- `docs/career-history.md` — public contact details confirmed final; recorded decisions to use year-only/approximate dates for fuzzy older roles and to exclude the unverified 20%/15% metrics from resume variants; resolved the date-display open question.
+- `resumes/README.md` — variant list updated to reflect created drafts and documents the shared variant conventions (contact, approximate dating, excluded unverified claims).
 - README now links to the navigation index and separates planned folders from existing ones.
 - Master resume Doctors Diabetics title aligned to the canonical career history (Medical Records Clerk).
 
