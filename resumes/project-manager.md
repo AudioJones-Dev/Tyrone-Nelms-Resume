@@ -46,7 +46,7 @@ July 2023 – Present
 **Event Planner / Creative Operations**  
 February 2022 – Present
 
-- Plan and execute client events with fixed dates, coordinating vendors, equipment, and on-site delivery.
+- Plan and execute client events with fixed dates, coordinating equipment, timelines, client expectations, and on-site delivery.
 - Manage client-facing production needs under real-time event constraints.
 
 ### AHLO Inc.
