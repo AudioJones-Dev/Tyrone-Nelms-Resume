@@ -17,13 +17,13 @@ Public resumes should derive from this file, not from memory or disconnected res
 | Jan 2006 – Aug 2006 | Doctors Diabetics | Medical Records Clerk | verified | Data entry and record processing. |
 | Aug 2006 – Aug 2007 | AHLO Inc. | Warehouse Clerk | verified | Data entry, shipping, and receiving. |
 | Feb 2008 – Apr 2011 | TigerDirect.com | Customer Service Representative | verified | Inbound customer service, account management, low-level technical support, and inbound sales. |
-| Apr 2011 – Oct 2014 | AHLO Inc. | Office Administrator / Warehouse / Customer Operations | verified | Older resumes list Office Administrator and Warehouse Clerk responsibilities. Consolidate after review. |
-| Jan 2015 – TODO | Alorica | Commercial Account Specialist Sr. Rep | needs_verification | Pasted resume lists Jan 2015–Present. Later resume suggests UnitedHealthcare began in 2017. Confirm exact end date. |
-| Oct 2015 – Apr 2018 | UnitedHealthcare | Provider Services Representative | needs_verification | 2024 resume lists Oct 2015–Apr 2018. 2022 resume lists Jun 2017–Apr 2019. Confirm exact dates. |
-| Apr 2018 – Mar 2020 | AHLO Inc. | Operations Manager | needs_verification | 2024 resume lists Operations Manager; overlaps with UHC depending on which dates are correct. |
+| Apr 2011 – Oct 2014 | AHLO Inc. | Office Administrator / Warehouse / Customer Operations | verified | Older resumes list Office Administrator and Warehouse Clerk responsibilities. Consolidate with later AHLO work for public resume use. |
+| Jan 2015 – fuzzy | Alorica | Commercial Account Specialist Sr. Rep | needs_verification | User confirmed exact end date is fuzzy because role was a long time ago. Keep as approximate until employment records are checked. |
+| fuzzy | UnitedHealthcare | Provider Services Representative | needs_verification | User confirmed exact end date is fuzzy. Source variants remain June 2017–April 2019 and October 2015–April 2018. Use approximate or year-only dates in public resume until verified. |
+| Multiple periods | AHLO Inc. | Consolidated Operations / Sales / Office Administration | verified_with_reconciliation_needed | User confirmed AHLO can be consolidated. Preserve source-period notes in the AHLO experience file. |
 | Apr 2020 – Present | Freelance / AJ Digital | Operations & Digital Marketing Specialist / Founder | verified | Strategic consultation, operations, marketing, project management, content creation, ad management, AI systems work. |
 | Feb 2022 – Present | Miami Spin 360 | Event Planner / Creative Operations | verified | Photo booth operations, photography, videography, event execution. |
-| Jul 2023 – Present | Florida Ramp & Lift | ADA & Mobile Lift Technician / Marketing & Operations Professional | current_context | 2024 resume lists Jul 2023–Apr 2024, but current working context indicates continued activity after Apr 2024. Confirm public date range. |
+| Jul 2023 – Present | Florida Ramp & Lift | Independent Contractor — ADA & Mobile Lift Technician / Marketing & Operations Professional | verified_current | User confirmed current service as an independent contractor. |
 
 ## Career Narrative
 
@@ -36,10 +36,15 @@ The public narrative should emphasize the connective tissue:
 - Creative and digital marketing roles added brand strategy, media production, content systems, and customer acquisition.
 - AI and automation work represents the current synthesis: using technology, systems thinking, and operational knowledge to improve business performance.
 
+## Public Contact
+
+- Email: Tyrone.nelms87@gmail.com
+- Phone: 786-280-4470
+
 ## Open Questions
 
-- Confirm final Alorica end date.
-- Confirm UnitedHealthcare exact start and end dates.
-- Confirm whether AHLO 2018–2020 was full-time, consulting, or overlapping with another role.
-- Confirm public date range and title for Florida Ramp & Lift.
-- Confirm whether AJ Digital should be listed as company founder, consultant, or freelance brand for resumes.
+- Verify final Alorica end date from records if possible.
+- Verify UnitedHealthcare exact start and end dates from records if possible.
+- Decide whether public resume should use approximate year-only dates for fuzzy older roles.
+- Confirm whether AJ Digital should be listed as company founder, consultant, or freelance brand for each resume variant.
+- Confirm LinkedIn and portfolio URLs.
