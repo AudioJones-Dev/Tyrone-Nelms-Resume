@@ -1,5 +1,19 @@
 # Changelog
 
+## Unreleased
+
+### Added
+
+- `.gitignore` for OS/editor artifacts and unreleased export binaries.
+- `CONTRIBUTING.md` with editing rules and factual-accuracy guardrails.
+- `docs/index.md` navigation index linking all major files.
+- `resumes/README.md`, `experience/README.md`, and `exports/README.md` folder guides.
+
+### Changed
+
+- README now links to the navigation index and separates planned folders from existing ones.
+- Master resume Doctors Diabetics title aligned to the canonical career history (Medical Records Clerk).
+
 ## v0.1 — Career OS Foundation
 
 Initial repository foundation for Tyrone Nelms Career Operating System.

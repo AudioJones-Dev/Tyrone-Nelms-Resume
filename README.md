@@ -29,6 +29,10 @@ Outputs may include:
 - Keep resumes ATS-friendly and readable.
 - Preserve public/private boundaries for client-sensitive work.
 
+## Navigation
+
+Start at [`docs/index.md`](docs/index.md) for a full index of all records, drafts, and templates. Editing rules live in [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
 ## Repository Status
 
 Career OS v0.1 is under construction.
@@ -41,8 +45,11 @@ The first milestone is building the canonical knowledge base before generating f
 - `experience/` — role-level experience files by employer or project.
 - `resumes/` — generated or hand-curated resume variants.
 - `linkedin/` — LinkedIn headline, about section, and experience copy.
+- `templates/` — reusable content templates.
+- `exports/` — generated PDF, DOCX, and HTML outputs (none yet).
+
+Planned folders, to be added when their first content lands:
+
 - `portfolio/` — public-facing case studies and project summaries.
 - `bios/` — short, medium, and executive bios.
-- `templates/` — reusable content templates.
-- `exports/` — generated PDF, DOCX, and HTML outputs.
 - `evidence/` — supporting proof points, links, and source notes.

@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.log
+
+# Generated export artifacts (commit intentionally, not by accident)
+exports/*.pdf
+exports/*.docx
+exports/*.html
+!exports/README.md
+
+# Local-only notes and drafts
+*.local.md
+private/
