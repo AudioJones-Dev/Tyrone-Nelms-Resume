@@ -15,6 +15,8 @@ A case study may be published only when ALL of the following hold:
 
 Note on repository visibility: this repository is public, so even pipeline entries and internal notes in this file are externally visible. Anything client-identifying must clear the gates above **before it is written here at all**, not just before formal publication.
 
+Naming rule for the pipeline: only engagements already public in the canonical records may be named here (e.g., Florida Ramp & Lift and Miami Spin 360, which appear on the published resumes — listing them as candidates discloses nothing new). AJ Digital client identities, engagement-specific outcomes, and internal details remain unnamed and undrafted until the gates are met.
+
 ## Candidate Pipeline
 
 Status values: `idea` → `evidence-gathering` → `client-approval` → `drafting` → `published`.
