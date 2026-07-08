@@ -90,7 +90,7 @@ February 2008 – April 2011
 
 ### Earlier Experience
 
-Medical records and data entry at Doctors Diabetics (2006).
+- Doctors Diabetics — Medical Records Clerk, 2006
 
 ## Certifications
 

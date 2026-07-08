@@ -60,7 +60,10 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 
 ### Earlier Experience
 
-Enterprise customer operations at Alorica, 2015 – 2017 (approximate), and UnitedHealthcare, 2017 – 2019 (approximate); customer service at TigerDirect.com, 2008 – 2011; records administration at Doctors Diabetics, 2006.
+- UnitedHealthcare — Provider Services Representative, 2017 – 2019 (approximate)
+- Alorica — Commercial Account Specialist Sr. Rep, 2015 – 2017 (approximate)
+- TigerDirect.com — Customer Service Representative, 2008 – 2011
+- Doctors Diabetics — Medical Records Clerk, 2006
 
 ## Certifications
 

@@ -76,7 +76,8 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 
 ### Earlier Experience
 
-Customer service and records roles at TigerDirect.com (2008 – 2011) and Doctors Diabetics (2006).
+- TigerDirect.com — Customer Service Representative, 2008 – 2011
+- Doctors Diabetics — Medical Records Clerk, 2006
 
 ## Certifications
 
