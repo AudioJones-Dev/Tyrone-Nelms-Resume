@@ -10,12 +10,7 @@ Resume drafts and role-targeted variants, all derived from the canonical records
 - [`project-manager.md`](project-manager.md) — reviewed; approved for export (PR #3).
 - [`customer-success.md`](customer-success.md) — reviewed; approved for export (PR #3).
 - [`digital-marketing.md`](digital-marketing.md) — reviewed; approved for export (PR #3).
-
-## Planned Variants
-
-Per [`docs/target-roles.md`](../docs/target-roles.md):
-
-- `executive-bio-resume.md`
+- [`executive-bio-resume.md`](executive-bio-resume.md) — **draft, pending strategic review.** Executive lens (judgment, systems, outcomes), not an ATS variant. Not in the export allowlist until reviewed.
 
 ## Variant Conventions
 
