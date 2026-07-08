@@ -13,6 +13,8 @@ A case study may be published only when ALL of the following hold:
 3. **Boundary review** — no confidential process, pricing, or client-internal detail, per the public/private rules in [`CONTRIBUTING.md`](../CONTRIBUTING.md).
 4. **Metric discipline** — numbers appear only if verified; otherwise the study is qualitative.
 
+Note on repository visibility: this repository is public, so even pipeline entries and internal notes in this file are externally visible. Anything client-identifying must clear the gates above **before it is written here at all**, not just before formal publication.
+
 ## Candidate Pipeline
 
 Status values: `idea` → `evidence-gathering` → `client-approval` → `drafting` → `published`.

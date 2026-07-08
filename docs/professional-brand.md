@@ -62,7 +62,7 @@ Tyrone Nelms is an operations and AI consultant helping founder-led service busi
 
 ### Standard (≤75 words)
 
-Tyrone Nelms is the founder of AJ Digital, an AI operations consulting practice for founder-led and service-based businesses. His 15+ year background spans enterprise customer operations, healthcare provider services, field service for accessibility equipment, digital marketing, and creative production. That range grounds his consulting: systems designed around how service businesses actually run. He holds Google professional certificates in Project Management, UX Design, and Digital Marketing & E-commerce.
+Tyrone Nelms is the founder of AJ Digital, an operations and AI consulting practice for founder-led and service-based businesses. His 15+ year background spans enterprise customer operations, healthcare provider services, field service for accessibility equipment, digital marketing, and creative production. That range grounds his consulting: systems designed around how service businesses actually run. He holds Google professional certificates in Project Management, UX Design, and Digital Marketing & E-commerce.
 
 ### Extended
 

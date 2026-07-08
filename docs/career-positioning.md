@@ -24,7 +24,7 @@ The positioning claim is that layers 1–3 are what make layer 4 credible: the A
 1. **Operator-turned-consultant.** Advice comes from lived operational experience, not theory. Evidence: the full chronology in `career-history.md`.
 2. **Systems over tools.** Emphasis on workflow design, documentation, and process architecture rather than tool evangelism. Evidence: AJ Digital responsibilities in `experience/aj-digital.md`.
 3. **Customer-experience literacy.** Enterprise-grade support discipline (first-call resolution, QA, escalation handling, 99%+ adherence at Alorica). Evidence: `experience/alorica.md`, `experience/unitedhealthcare.md`.
-4. **Full-stack service-business range.** Marketing, creative production, field operations, and back office — the whole surface a small service business actually runs on.
+4. **End-to-end service-business range.** Marketing, creative production, field operations, and back office — the whole surface a small service business actually runs on.
 5. **Evidence discipline.** Unverified metrics stay out of public claims (see Resolved Decisions in `career-history.md`). This is itself a differentiator: credibility as a brand value.
 
 ## Audience Framing
