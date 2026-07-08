@@ -29,7 +29,7 @@ Technology adoption · CRM and automation systems · AI-assisted workflows · cu
 
 ## Relevant Experience
 
-CRM and automation strategy for client businesses through AJ Digital since 2020; enterprise-grade systems fluency from the operator side (Salesforce, RightNow, SharePoint, and internal platforms at Alorica; provider-services systems at UnitedHealthcare); marketing-systems and content-systems implementation across client work (canonical record: `docs/career-history.md`, `experience/`).
+CRM and automation strategy for client businesses through AJ Digital since 2020; enterprise-grade systems fluency from the operator side (Salesforce, RightNow, SharePoint, and internal platforms at Alorica); marketing-systems and content-systems implementation across client work (canonical record: `docs/career-history.md`, `experience/`).
 
 ## Technology Familiarity
 
