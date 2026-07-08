@@ -10,9 +10,11 @@ Miami, Florida
 
 ## Dates
 
-Jan 2015 – TODO
+Approx. 2015 – 2017
 
-Status: needs verification. Pasted resume lists Jan 2015–Present, but later resumes show UnitedHealthcare and AHLO roles during overlapping periods.
+Status: approximate. User confirmed exact end date is fuzzy because the role was a long time ago.
+
+Source note: pasted resume lists Jan 2015–Present, but later resumes show UnitedHealthcare and AHLO roles during overlapping periods. Use approximate year-only dates until employment records are checked.
 
 ## Summary
 
