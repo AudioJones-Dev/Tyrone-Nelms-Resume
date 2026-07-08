@@ -1,7 +1,7 @@
 # Founder Bio
 
 - **Purpose:** introduce Tyrone in AJ Digital contexts — who he is, why the practice exists, how he works.
-- **Audience:** potential clients, partners, investors, podcast hosts.
+- **Audience:** potential clients, partners, podcast hosts, and investor conversations where business-model context has been added (see Open Questions).
 - **Length:** 150–250 words.
 - **Canonical sources:** `docs/career-positioning.md` (narrative arc, pillars), `docs/professional-brand.md` (voice, pitches), `experience/aj-digital.md`, `docs/career-history.md`.
 

@@ -15,8 +15,8 @@ Operations and AI consultant whose career stacks four layers of service-business
 - Founded and operates AJ Digital (2020–present), setting service strategy, client delivery standards, and the practice's documentation-first methodology.
 - Directed daily operations and supported team alignment with business goals at AHLO Inc. across a multi-period relationship spanning warehouse, administration, sales, and operations.
 - Earned leadership-without-title recognition at Alorica: team lead, TPSM subject-matter expert, trainer and mentor to team members, floor support for new hires, and host of team huddles.
-- Sustained elite execution discipline at Alorica: Employee of the Month (March 2015), quarterly top performer, two years of perfect attendance, over 99% adherence every month.
-- Chosen for judgment-heavy escalation work: supervisor callbacks, special cases, and multi-party resolution across clients, dealers, and technicians.
+- Sustained high execution discipline at Alorica: Employee of the Month (March 2015), quarterly top performer, two years of perfect attendance, over 99% adherence every month.
+- Handled judgment-heavy escalation work: supervisor callbacks, special cases, and multi-party resolution across clients, dealers, and technicians.
 - Maintains current field-operations credibility as an independent contractor supporting ADA and mobility-equipment services.
 
 ## Professional Experience
