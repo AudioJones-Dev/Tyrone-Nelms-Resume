@@ -1,0 +1,83 @@
+/* Resume HTML export styling — ATS-safe single column, print-friendly. */
+
+:root {
+  --ink: #1a1a1a;
+  --muted: #444;
+  --rule: #999;
+}
+
+html {
+  font-size: 15px;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--ink);
+  line-height: 1.45;
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem;
+}
+
+h1 {
+  font-size: 1.9rem;
+  letter-spacing: 0.02em;
+  margin: 0 0 0.2rem;
+}
+
+/* The bold role line directly under the name */
+h1 + p strong {
+  font-size: 1.05rem;
+  color: var(--muted);
+}
+
+h2 {
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.15rem;
+  margin: 1.6rem 0 0.6rem;
+}
+
+h3 {
+  font-size: 1rem;
+  margin: 1rem 0 0.1rem;
+}
+
+p {
+  margin: 0.3rem 0;
+}
+
+ul {
+  margin: 0.3rem 0 0.6rem;
+  padding-left: 1.2rem;
+}
+
+li {
+  margin: 0.15rem 0;
+}
+
+a {
+  color: var(--ink);
+}
+
+@media print {
+  html {
+    font-size: 12px;
+  }
+  body {
+    padding: 0;
+    max-width: none;
+  }
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+  li,
+  p {
+    break-inside: avoid;
+    orphans: 2;
+    widows: 2;
+  }
+}

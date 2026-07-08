@@ -4,6 +4,7 @@
 
 ### Added
 
+- Export pipeline: `scripts/export_resumes.py` generates PDF/DOCX/HTML for the five approved resume variants (pandoc for HTML/DOCX, headless Chrome for PDF, LibreOffice Writer fallback); `scripts/resume.css` styles HTML and PDF output; `.github/workflows/export-resumes.yml` regenerates exports on pushes to main and uploads them as build artifacts. Master resume remains excluded via the script's allowlist; artifacts stay out of Git per the existing `.gitignore` rules. `exports/README.md` rewritten with generation instructions.
 - LinkedIn OS (`linkedin/`): canonical repository for the entire LinkedIn presence — `headline.md`, `about.md`, `experience.md`, `featured.md`, `recommendations.md` (profile surfaces) and `creator-positioning.md`, `content-pillars.md`, `post-frameworks.md`, `connection-messages.md`, `outreach.md` (growth surfaces), with a `README.md` deployment tracker. The live profile becomes a deployment target of these files.
 - Strategic layer above the canonical records: `docs/career-positioning.md`, `docs/professional-brand.md`, `docs/achievement-library.md`, `docs/interview-playbook.md`, `docs/case-studies.md`. Future resumes, LinkedIn copy, bios, proposals, and case studies derive framing from these files and facts from the canonical records.
 - Five role-targeted resume variants derived from canonical records: `resumes/ai-operations-consultant.md`, `resumes/operations-manager.md`, `resumes/project-manager.md`, `resumes/customer-success.md`, `resumes/digital-marketing.md`.

@@ -1,0 +1,41 @@
+name: Export resumes
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "resumes/*.md"
+      - "scripts/**"
+      - ".github/workflows/export-resumes.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      # ubuntu-latest runners ship Google Chrome, which the export script
+      # auto-detects as its PDF engine.
+      - name: Export approved resume variants
+        run: python3 scripts/export_resumes.py
+
+      - name: Upload exports
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume-exports-${{ github.sha }}
+          path: |
+            exports/*.pdf
+            exports/*.docx
+            exports/*.html
+          retention-days: 90
+          if-no-files-found: error
