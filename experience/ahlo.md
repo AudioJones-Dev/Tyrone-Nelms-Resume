@@ -1,5 +1,11 @@
 # AHLO Inc.
 
+## Public Resume Treatment
+
+Consolidated entry.
+
+The user confirmed AHLO can be consolidated rather than split into separate public resume entries.
+
 ## Roles
 
 - Warehouse Clerk
@@ -21,7 +27,7 @@ Multiple periods across resume versions:
 - March 2020 – October 2022: Sales Representative in 2022 resume.
 - April 2018 – March 2020: Operations Manager in 2024 resume.
 
-Status: needs reconciliation.
+Status: consolidated, date-level reconciliation still needed for final public exports.
 
 ## Summary
 
@@ -60,6 +66,6 @@ Long-running operational relationship across warehouse, office administration, s
 
 ## TODO
 
-- Reconcile overlapping date ranges.
 - Confirm whether AHLO Inc., Ahlo Inc., or AHLO should be used publicly.
-- Confirm whether to split into multiple resume entries or consolidate as one long-running organization.
+- Decide final date display: full ranges, year-only, or consolidated periods.
+- Verify 15% productivity improvement before using in a final public resume.
