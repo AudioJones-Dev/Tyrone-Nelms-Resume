@@ -17,6 +17,16 @@ Navigation hub for the Tyrone Nelms Career Operating System.
 - [Accomplishments](accomplishments.md) — reusable achievement library
 - [Target Roles](target-roles.md) — role strategy, tiers, and positioning guardrails
 
+## Strategic Layer (`docs/`)
+
+Positioning and reuse layer above the canonical records — artifacts derive framing from here and facts from the canonical records.
+
+- [Career Positioning](career-positioning.md) — narrative arc, pillars, audience framing, derivation map
+- [Professional Brand](professional-brand.md) — titles, pitches, bios, voice, channel rules
+- [Achievement Library](achievement-library.md) — evidence-tiered achievements and reusable phrasings
+- [Interview Playbook](interview-playbook.md) — STAR stories, soft-spot answers, question maps
+- [Case Studies](case-studies.md) — candidate pipeline, publication gates, template
+
 ## Experience Source Records (`experience/`)
 
 Internal source records, not public polished copy. See the [experience README](../experience/README.md).
