@@ -43,13 +43,13 @@ Description:
 
 ## AHLO Inc. (consolidated)
 
-- **Title:** Operations / Sales / Office Administration
-- **Dates:** 2006 – 2022 (year-only; multiple engagement periods)
+- **Title:** Operations / Sales / Office Administration (Multiple Periods)
+- **Dates:** 2006 – 2022 (year-only; LinkedIn date fields cannot express gaps — the title and description carry the clarification)
 - **Location:** Miami / Doral, Florida
 
 Description:
 
-> Long-running operational relationship across multiple periods and functions: warehouse and shipping/receiving, office administration, order management, customer service, sales support, and daily operations direction. Consolidated entry — engagement periods varied.
+> This was not a continuous 16-year role; it is a consolidated entry across multiple engagement periods between 2006 and 2022. Functions across those periods: warehouse and shipping/receiving, office administration, order management, customer service, sales support, and daily operations direction.
 
 ## UnitedHealthcare
 

@@ -8,7 +8,7 @@ Square brackets are placeholders. Personalize from a real signal every time.
 
 ### Touch 1 — after connection accept (within 2–3 days)
 
-> Thanks for connecting, [name]. No agenda — but since you're running [company], I'm curious: what's the workflow that eats the most time on your team right now? I collect these (occupational habit) and sometimes I can point at a fix in one message.
+> Thanks for connecting, [name]. No agenda — but since you're running [company], I'm curious: what's the workflow that eats the most time on your team right now? I collect these (occupational habit) and sometimes I can point to a useful next step.
 
 ### Touch 2 — value drop (1–2 weeks later, only if Touch 1 got a reply or clear interest signal)
 

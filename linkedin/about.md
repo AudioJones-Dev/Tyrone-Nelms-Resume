@@ -23,7 +23,8 @@ I'm especially interested in the intersection of operations, AI, customer experi
 ## Notes
 
 - Paragraphs 1–3 migrated from the original profile draft; paragraphs 4–6 add the two differentiators from `career-positioning.md` (operator-turned-consultant, evidence discipline).
-- The email is the confirmed-final public contact. Add the portfolio URL here once confirmed.
+- The email line is **optional**, not mandatory: keep it while the profile's primary job is inbound consulting; drop it if LinkedIn's own contact-info section is populated and the emphasis shifts toward job search. It stays on the final line either way.
+- Add the portfolio URL here once confirmed.
 - First ~300 characters (shown before "see more") carry the full value proposition on their own — keep it that way in any future edit.
 
 ## Shorter Variant (if a tighter About is ever preferred)

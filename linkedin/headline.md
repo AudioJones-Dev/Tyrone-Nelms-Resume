@@ -6,7 +6,9 @@ LinkedIn headline (220-character limit). Derives from the Title System in [`docs
 
 ### Option A — AI Operations (recommended default)
 
-> AI Operations Consultant | Founder, AJ Digital | Workflow Automation, Business Systems & Customer Experience
+> AI Operations Consultant | Founder, AJ Digital | Workflow Automation, Business Systems, Customer Experience
+
+(Comma-separated keyword list rather than a trailing ampersand — reads cleaner at the same keyword coverage.)
 
 - Fits Tier 1 target roles (`docs/target-roles.md`) and consulting discovery.
 - Leads with the searchable role phrase recruiters and founders actually type.
