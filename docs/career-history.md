@@ -38,13 +38,20 @@ The public narrative should emphasize the connective tissue:
 
 ## Public Contact
 
+Status: confirmed final for public use (2026-07-08).
+
 - Email: Tyrone.nelms87@gmail.com
 - Phone: 786-280-4470
+
+## Resolved Decisions
+
+- 2026-07-08 — Public contact details above are final.
+- 2026-07-08 — Fuzzy older roles (Alorica, UnitedHealthcare) use year-only / approximate dates in public resumes until employment records are verified.
+- 2026-07-08 — The unverified 20% cost reduction (Florida Ramp & Lift) and 15% productivity (AHLO) claims are excluded from resume variants until evidence exists. They remain tracked in `docs/accomplishments.md` under Metrics to Verify.
 
 ## Open Questions
 
 - Verify final Alorica end date from records if possible.
 - Verify UnitedHealthcare exact start and end dates from records if possible.
-- Decide whether public resume should use approximate year-only dates for fuzzy older roles.
 - Confirm whether AJ Digital should be listed as company founder, consultant, or freelance brand for each resume variant.
 - Confirm LinkedIn and portfolio URLs.
