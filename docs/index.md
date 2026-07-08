@@ -47,7 +47,12 @@ Internal source records, not public polished copy. See the [experience README](.
 - [Project Manager Resume (draft)](../resumes/project-manager.md)
 - [Customer Success Resume (draft)](../resumes/customer-success.md)
 - [Digital Marketing Resume (draft)](../resumes/digital-marketing.md)
-- [LinkedIn OS](../linkedin/README.md) — headline, About, experience entries, featured plan, content system, outreach
+
+## LinkedIn (`linkedin/`)
+
+Canonical repository for the LinkedIn presence — the live profile is a deployment target of these files.
+
+- [LinkedIn OS](../linkedin/README.md) — file map, rules, and deployment-status tracker for headline, About, experience entries, featured plan, content system, and outreach
 
 ## Templates & Exports
 

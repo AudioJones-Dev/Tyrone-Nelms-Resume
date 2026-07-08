@@ -6,7 +6,7 @@ Square brackets are placeholders; fill them from a real signal before sending. N
 
 ## Recruiter / Hiring Manager
 
-> Hi [name] — I saw the [role title] opening at [company]. My background is operations + AI systems for service businesses (15+ yrs ops, Google PM certified). Happy to connect either way.
+> Hi [name] — I saw the [role title] opening at [company]. My background is operations and AI systems for service businesses. Happy to connect either way.
 
 ## Founder / Consulting Prospect (warm — engaged with their content)
 

@@ -6,7 +6,7 @@ Reusable structures for LinkedIn posts. Every post uses one of these skeletons, 
 
 Best for Pillar 3 (operator lessons). Source stories from [`docs/interview-playbook.md`](../docs/interview-playbook.md) — they are already evidence-checked.
 
-```
+```text
 [One-line scene from a real role — specific, sensory, verified]
 [What went wrong or what the pressure was]
 [What I did — 2-3 short lines]
@@ -18,7 +18,7 @@ Best for Pillar 3 (operator lessons). Source stories from [`docs/interview-playb
 
 Best for Pillars 1–2. Qualitative until case-study gates clear.
 
-```
+```text
 [The "before" state — messy, recognizable, anonymized]
 [The one change that mattered (not the tool — the design decision)]
 [The "after" state — described qualitatively]
@@ -29,7 +29,7 @@ Best for Pillars 1–2. Qualitative until case-study gates clear.
 
 Best for Pillar 1 (AI hype correction).
 
-```
+```text
 ["Everyone says X about AI/automation"]
 [What actually happens in a service business when you try X]
 [What works instead — grounded in operational reality]
@@ -39,7 +39,7 @@ Best for Pillar 1 (AI hype correction).
 
 Best for Pillar 2. High-save-rate format.
 
-```
+```text
 [Problem statement in one line]
 [5-8 checklist items, each one actionable line]
 [Which item most people skip, and the cost]
@@ -49,7 +49,7 @@ Best for Pillar 2. High-save-rate format.
 
 Pillar 4 only (gated — see `content-pillars.md`).
 
-```
+```text
 [What changed in the Career OS this week]
 [The governance decision behind it (gates, tiers, verification)]
 [The general principle any professional could apply]
