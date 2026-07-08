@@ -4,6 +4,7 @@
 
 ### Added
 
+- Strategic layer above the canonical records: `docs/career-positioning.md`, `docs/professional-brand.md`, `docs/achievement-library.md`, `docs/interview-playbook.md`, `docs/case-studies.md`. Future resumes, LinkedIn copy, bios, proposals, and case studies derive framing from these files and facts from the canonical records.
 - Five role-targeted resume variants derived from canonical records: `resumes/ai-operations-consultant.md`, `resumes/operations-manager.md`, `resumes/project-manager.md`, `resumes/customer-success.md`, `resumes/digital-marketing.md`.
 - `.gitignore` for OS/editor artifacts and unreleased export binaries.
 - `CONTRIBUTING.md` with editing rules and factual-accuracy guardrails.
