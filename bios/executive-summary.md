@@ -43,4 +43,4 @@ Append the contact block (email/phone from `docs/career-history.md` Public Conta
 ## Maintenance Rules
 
 - Must stay in strict agreement with `docs/career-positioning.md`; if the pillars change, this file changes the same day.
-- One page hard limit when rendered — if it grows, cut, don't shrink the font.
+- One-page hard limit when rendered — if it grows, cut, don't shrink the font.
