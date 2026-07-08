@@ -48,6 +48,15 @@ February 2022 – Present
 
 - Deliver client-facing event services, managing expectations and on-site experience end to end.
 
+### AHLO Inc.
+
+**Consolidated Operations / Sales / Office Administration**  
+Multiple periods between 2006 and 2022 (consolidated entry)
+
+- Placed orders and answered customer questions in person, by email, and over the phone.
+- Contacted new and existing customers to communicate product benefits.
+- Monitored customer order processes and addressed customer issues.
+
 ### UnitedHealthcare
 
 **Provider Services Representative**  
@@ -70,15 +79,6 @@ February 2022 – Present
 - Recognized as Employee of the Month (March 2015), quarterly top performer, TPSM Team SME, and team lead.
 - Achieved perfect attendance for two years and maintained over 99% adherence every month.
 - Trained, mentored, and coached team members; provided floor support for new hires.
-
-### AHLO Inc.
-
-**Consolidated Operations / Sales / Office Administration**  
-Multiple periods between 2006 and 2022 (consolidated entry)
-
-- Placed orders and answered customer questions in person, by email, and over the phone.
-- Contacted new and existing customers to communicate product benefits.
-- Monitored customer order processes and addressed customer issues.
 
 ### TigerDirect.com
 

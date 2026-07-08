@@ -58,6 +58,13 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 - Coordinated across sales, warehouse, and administrative functions.
 - Directed daily operations and supported team alignment with business goals.
 
+### UnitedHealthcare
+
+**Provider Services Representative**  
+2017 – 2019 (approximate)
+
+- Researched provider issues, coordinated resolutions, and communicated outcomes professionally.
+
 ### Alorica
 
 **Commercial Account Specialist Sr. Rep**  
@@ -66,13 +73,6 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 - Documented caller questions, contracts, required steps, and final resolutions with high accuracy.
 - Coordinated escalations and supervisor callbacks across teams; served as TPSM Team SME.
 - Trained and mentored team members and hosted team huddles to communicate updates.
-
-### UnitedHealthcare
-
-**Provider Services Representative**  
-2017 – 2019 (approximate)
-
-- Researched provider issues, coordinated resolutions, and communicated outcomes professionally.
 
 ### Earlier Experience
 

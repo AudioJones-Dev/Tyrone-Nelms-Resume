@@ -52,6 +52,14 @@ February 2022 – Present
 - Coordinate client-facing event production, planning, and on-site execution.
 - Support creative operations spanning photo booth services, photography, and videography.
 
+### AHLO Inc.
+
+**Consolidated Operations / Sales / Office Administration**  
+Multiple periods between 2006 and 2022 (consolidated entry)
+
+- Supported order management, customer service, data entry, shipping and receiving, and administrative operations.
+- Directed daily operations and supported team alignment with business goals.
+
 ### UnitedHealthcare
 
 **Provider Services Representative**  
@@ -68,14 +76,6 @@ February 2022 – Present
 - Resolved commercial account issues using Salesforce, RightNow, SharePoint, and internal systems (STMS, OMS, RIO, DocDNA).
 - Documented caller questions, contracts, required steps, and final resolutions; supported first-call resolution goals.
 - Trained, mentored, and coached team members; served as TPSM Team SME and provided new-hire floor support.
-
-### AHLO Inc.
-
-**Consolidated Operations / Sales / Office Administration**  
-Multiple periods between 2006 and 2022 (consolidated entry)
-
-- Supported order management, customer service, data entry, shipping and receiving, and administrative operations.
-- Directed daily operations and supported team alignment with business goals.
 
 ### Earlier Experience
 
