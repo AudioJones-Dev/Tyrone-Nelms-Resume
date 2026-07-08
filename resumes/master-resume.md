@@ -103,7 +103,7 @@ February 2008 – April 2011
 
 ### Doctors Diabetics
 
-**Administrative Records Clerk**  
+**Medical Records Clerk**  
 January 2006 – August 2006
 
 - Performed data entry and records processing.
