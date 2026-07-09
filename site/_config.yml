@@ -1,0 +1,10 @@
+title: Tyrone Nelms — Professional OS
+description: Operations & AI systems consultant. Evidence-based professional documentation portal.
+theme: jekyll-theme-primer
+exclude:
+  - README.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
