@@ -18,7 +18,7 @@ Plan for LinkedIn's Featured slots. Items appear only when their gate clears —
 | Public case study | Full publication gates | `docs/case-studies.md` |
 | Florida Ramp & Lift operations case study | Company approval | `docs/case-studies.md` pipeline #4 |
 | Media production portfolio | Asset curation + any client permissions | — |
-| Career OS repository (this repo) | Owner decision to promote it publicly | see note below |
+| Professional OS repository (this repo) | Owner decision to promote it publicly | see note below |
 
 ## Note on Featuring This Repository
 

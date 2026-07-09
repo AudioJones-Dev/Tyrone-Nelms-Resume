@@ -16,6 +16,7 @@
 
 ### Changed
 
+- Repository framing renamed from "Career OS" to **Professional Operating System (Professional OS)** across README, docs index, CONTRIBUTING, and LinkedIn OS references — the scope outgrew resumes (resume variants, LinkedIn OS, bios, capability statements, export pipeline all derive from one evidence-governed record). No facts or artifacts changed; the historical "v0.1 — Career OS Foundation" release title below is intentionally preserved.
 - `docs/career-history.md` — public contact details confirmed final; recorded decisions to use year-only/approximate dates for fuzzy older roles and to exclude the unverified 20%/15% metrics from resume variants; resolved the date-display open question.
 - `resumes/README.md` — variant list updated to reflect created drafts and documents the shared variant conventions (contact, approximate dating, excluded unverified claims).
 - README now links to the navigation index and separates planned folders from existing ones.

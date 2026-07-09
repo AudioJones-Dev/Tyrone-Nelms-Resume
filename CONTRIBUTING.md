@@ -1,4 +1,4 @@
-# Contributing to the Career OS
+# Contributing to the Professional OS
 
 This repository is the canonical source of truth for Tyrone Nelms' professional record. Every change should protect the accuracy of that record.
 

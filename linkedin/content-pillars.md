@@ -26,12 +26,12 @@ The recurring themes all LinkedIn content draws from. Each pillar maps to a posi
 - Example topics: what 99% adherence taught about consistency; first-call resolution as a systems principle; what field service teaches about safety and logistics that dashboards miss.
 - Proof source: Alorica, UnitedHealthcare, Florida Ramp & Lift records — Tier A/B achievements only.
 
-## Pillar 4 — Building in Public: the Career OS
+## Pillar 4 — Building in Public: the Professional OS
 
 *Positioning pillar: evidence discipline.*
 
 - What: how this repository works — canonical records, evidence tiers, gated claims, AI-assisted-but-governed workflows.
-- Example topics: "why my resume repo refuses unverified metrics"; how the strategic layer prevents resume/LinkedIn drift; version-controlling a career.
+- Example topics: "why my professional operating system refuses unverified metrics"; how the strategic layer prevents resume/LinkedIn drift; version-controlling a career.
 - Proof source: this repository itself.
 - Gate: only if/when the owner decides the repo is publicly promotable (tracked in `featured.md`).
 
