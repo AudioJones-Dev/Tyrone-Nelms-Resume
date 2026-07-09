@@ -7,6 +7,7 @@ Navigation hub for the Tyrone Nelms Professional Operating System.
 - [README](../README.md) — purpose, operating principles, and repository layout
 - [CONTRIBUTING](../CONTRIBUTING.md) — editing rules and factual-accuracy guardrails
 - [CHANGELOG](../CHANGELOG.md) — milestone history and known gaps
+- [Architecture Pattern](architecture-pattern.md) — the generic, reusable blueprint this repository implements (no personal facts)
 
 ## Canonical Records (`docs/`)
 
