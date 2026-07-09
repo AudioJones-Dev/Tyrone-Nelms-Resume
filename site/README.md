@@ -1,6 +1,6 @@
 # Site (GitHub Pages Surface)
 
-This folder is the **curated public portal** — a deployment target, not the repository itself. Only reviewed public artifacts are surfaced here; the repo's working files, open questions, and internal notes are not part of the site (though the repository itself remains browsable on GitHub).
+This folder is the **curated public portal** — a deployment target, not the repository itself. The site's navigation intentionally surfaces only reviewed public artifacts, even though the public repository remains browsable on GitHub.
 
 ## Rules
 

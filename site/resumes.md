@@ -20,6 +20,6 @@ An [executive-lens resume](https://github.com/AudioJones-Dev/Tyrone-Nelms-Resume
 
 ## Downloads
 
-PDF/DOCX/HTML exports are generated automatically by the repository's [export pipeline](https://github.com/AudioJones-Dev/Tyrone-Nelms-Resume/blob/main/exports/README.md) on every content change — reproducible builds, not hand-edited files. A direct download center on this site is planned; for now, exports are available on request or as build artifacts on the repository's Actions runs.
+PDF/DOCX/HTML exports are generated automatically by the repository's [export pipeline](https://github.com/AudioJones-Dev/Tyrone-Nelms-Resume/blob/main/exports/README.md) on every content change — reproducible builds, not hand-edited files. Direct downloads will be added in a later iteration; for now, the source resumes are linked above and exports can be generated reproducibly from the repository.
 
 📧 Tyrone.nelms87@gmail.com — happy to send the variant that fits your context.

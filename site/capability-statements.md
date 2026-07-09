@@ -4,7 +4,7 @@ title: Capability Statements
 
 # Capability Statements — AJ Digital
 
-Four service lines, each with a full capability statement in the repository. All engagements start with discovery and documentation; pricing is scoped per engagement.
+Four service lines, each with a full capability statement in the repository. All engagements start with discovery and documentation; pricing is scoped per engagement — it is intentionally absent from these pages until standard offers are defined, the same discipline the capability statements themselves follow.
 
 ## AI Operations Consulting
 
