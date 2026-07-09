@@ -63,6 +63,10 @@ Canonical repository for the LinkedIn presence — the live profile is a deploym
 
 - [LinkedIn OS](../linkedin/README.md) — file map, rules, and deployment-status tracker for headline, About, experience entries, featured plan, content system, and outreach
 
+## Public Portal (`site/`)
+
+Curated GitHub Pages surface — a deployment target, not a source of truth. See the [site README](../site/README.md) for rules and Pages setup.
+
 ## Templates & Exports
 
 - [Experience Template](../templates/experience-template.md) — use for new role records
