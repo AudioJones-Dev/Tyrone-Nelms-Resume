@@ -10,7 +10,7 @@ Professional artifacts — resumes, profiles, bios, proposals — are convention
 
 ## Layer Model
 
-Information flows in one direction. Every layer may read from the layers above it; no layer may introduce facts.
+Information flows in one direction. Every downstream layer may read from upstream layers; no layer may introduce facts.
 
 ```text
 1. CANONICAL FACTS        what is true
@@ -75,7 +75,7 @@ Gates are conditions, written down in advance, that block an action until met �
 Derived artifacts become deliverables mechanically: plain-text sources (Markdown) converted to distribution formats (PDF/DOCX/HTML) by a repeatable script, run locally and in CI. Doctrine:
 
 - Generated binaries stay out of version control; CI publishes them as build artifacts.
-- The pipeline enforces the export gate (allowlist), validates its own output (a converter that exits cleanly on failure is assumed guilty), and names outputs by variant and date.
+- The pipeline enforces the export gate (allowlist), verifies conversion success by output existence and non-empty file checks — not exit code alone — and names outputs by variant and date.
 - Styling lives in the pipeline; content questions belong to the sources.
 
 ## Public/Private Boundary Rules
