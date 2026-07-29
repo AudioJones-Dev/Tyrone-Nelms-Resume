@@ -1,101 +1,102 @@
 # Tyrone Nelms
 
-**Operations Manager**
-
-Miami / Hialeah, Florida  
-Email: Tyrone.nelms87@gmail.com  
-Phone: 786-280-4470
+**Operations & Business Systems Manager**  
+Florida | Open to Remote U.S. Opportunities  
+Tyrone.nelms87@gmail.com | 786-280-4470  
+Portfolio: https://github.com/AudioJones-Dev
 
 ## Professional Summary
 
-Operations professional with experience across customer service operations, healthcare provider support, sales operations, field service, digital marketing, and team coordination. Skilled in process improvement, documentation, CRM systems, stakeholder communication, workflow management, and cross-functional execution. Combines practical field experience with structured operations thinking and a strong customer-service foundation.
+Operations and business systems professional with 15+ years of experience across enterprise customer operations, project delivery, field service, process improvement, CRM platforms, and AI-enabled workflow design. Translates ambiguous operational problems into documented processes, implementation plans, governed automation, role-based tools, and measurable service workflows. Combines frontline operating experience with systems design, stakeholder communication, customer escalation management, and cross-functional execution.
 
 ## Core Competencies
 
-- Operations Management
-- Workflow Management
-- Process Improvement
-- SOP Development & Documentation
-- Team Leadership, Training & Mentoring
-- Escalation Handling
-- Quality Assurance
-- Resource & Vendor Coordination
-- CRM & Business Systems
+Business Operations | Program & Project Delivery | Process Improvement | Operational Excellence | Customer Operations | Implementation Management | Business Systems | CRM | Workflow Automation | SOP Development | Cross-Functional Leadership | Stakeholder Management | Change Enablement | Knowledge Management | AI Operations
+
+## Selected Projects
+
+### AJ Digital OS V1 | AI Operations Platform
+
+- Designed and developed a local-first operating platform for AI-assisted workflows, task and conversation history, semantic memory, operator monitoring, approvals, execution, and deliverable publishing.
+- Implemented human-governed lifecycle states across draft, pending approval, approved, and published outputs.
+- Built terminal and browser control surfaces, health checks, run inspection, brand-aware output routing, and integration/model profile scaffolds.
+
+### Florida Ramp & Lift FieldOps Platform | Service Operations Pilot
+
+- Converted field-service requirements into a role-based operational portal for installers, office administrators, and client status visibility.
+- Designed workflows for job intake, contractor coordination, documentation, billing drafts, performance summaries, field images, and customer communication.
+- Created supporting SOPs, data definitions, JSON schemas, automation specifications, safety controls, and human approval gates.
+
+### HDIKIT | AI Governance Framework
+
+- Designed a truth-state protocol for validating claims, exposing unsupported confidence, documenting uncertainty, and preventing unverified assumptions from becoming operational action.
 
 ## Professional Experience
 
-### AJ Digital / Freelance Consulting
+### AJ Digital LLC
 
-**Founder / Operations & Digital Marketing Specialist**  
-April 2020 – Present
+**Founder | Operations & AI Systems Consultant** | April 2020 – Present
 
-- Provide operational management and strategic consultation for client businesses.
-- Streamline workflows and improve team efficiency across projects managed in ClickUp, Asana, and Notion.
-- Design business workflows, documentation systems, and implementation plans.
-- Support customer experience improvements and business systems adoption.
+- Lead client discovery, process mapping, implementation planning, workflow design, documentation, and stakeholder communication for operational improvement initiatives.
+- Design CRM processes, business-memory structures, dashboards, portals, SOPs, automation specifications, and governance controls for service organizations.
+- Translate business needs into requirements, workflow states, data models, operating procedures, and phased implementation roadmaps.
+- Manage projects and organizational knowledge across ClickUp, Asana, Notion, Microsoft 365, Google Workspace, GitHub, and AI-assisted development environments.
+- Support customer journey, service delivery, digital marketing, and revenue-process improvements where they intersect with operations.
 
 ### Florida Ramp & Lift
 
-**Independent Contractor — ADA & Mobile Lift Technician / Marketing & Operations Professional**  
-July 2023 – Present
+**Independent Contractor | Field Operations, Marketing & Systems** | July 2023 – Present
 
-- Provide field support for ADA accessibility, ramp, and mobile lift service operations.
-- Support technical troubleshooting, logistics coordination, customer communication, and field execution.
-- Support safety standards and practical implementation of accessibility-related field work.
-- Contribute to marketing and operational process improvements.
+- Support ADA accessibility, ramp, and mobile-lift service operations across customer sites, coordinating logistics, troubleshooting, documentation, and completion requirements.
+- Map installation, dispatch, safety, closeout, billing, and contractor workflows into operating procedures and platform requirements.
+- Coordinate customer communication and field execution in a safety-sensitive service environment.
+- Bridge frontline field experience with systems design to ensure operational tools reflect actual installer and management needs.
 
 ### Miami Spin 360
 
-**Event Planner / Creative Operations**  
-February 2022 – Present
+**Event Planner | Creative Operations** | February 2022 – Present
 
-- Plan and execute client events, coordinating logistics, customer communication, and on-site operations.
-- Operate photo booth services and support photography and videography delivery under event constraints.
+- Coordinate client events, scheduling, equipment, on-site logistics, photography, videography, and customer deliverables.
+- Manage customer communication and time-sensitive execution across live service environments.
 
 ### AHLO Inc.
 
-**Consolidated Operations / Sales / Office Administration**  
-Multiple periods between 2006 and 2022 (consolidated entry)
+**Operations, Sales & Office Administration**
 
-- Directed daily operations and supported team alignment with business goals.
-- Supported data entry, shipping, receiving, order management, customer service, and administrative operations.
-- Monitored customer order processes and addressed customer issues.
-- Worked with customer service management to ensure service quality.
+- Supported shipping, receiving, order management, customer service, sales support, data entry, and daily office operations.
+- Monitored order workflows, resolved customer issues, and coordinated internal activities supporting service delivery.
 
 ### UnitedHealthcare
 
-**Provider Services Representative**  
-2017 – 2019 (approximate)
+**Provider Services Representative**
 
-- Answered inbound calls to support provider questions, payment options, and issue resolution.
-- Researched customer and provider issues to identify problems and develop resolutions.
-- Delivered positive customer experiences through quality assurance practices.
+- Researched and resolved provider and customer issues involving accounts, service questions, and payment options.
+- Applied quality standards, documentation practices, and professional escalation handling in a high-volume environment.
 
 ### Alorica
 
-**Commercial Account Specialist Sr. Rep**  
-2015 – 2017 (approximate)
+**Commercial Account Specialist, Senior Representative** | 2015
 
-- Served as team lead and TPSM Team SME; hosted team huddles and provided floor support for new hires.
-- Trained, mentored, and coached team members; assisted with supervisor callbacks, escalations, and special cases.
-- Maintained over 99% adherence every month and achieved perfect attendance for two years.
-- Recognized as Employee of the Month (March 2015) and quarterly top performer.
+- Used Salesforce, RightNow, SharePoint, STMS, OMS, RIO, and DocDNA to resolve commercial account, contract, dealer, technician, and customer issues.
+- Trained and mentored new employees, provided floor support, led team huddles, handled supervisor callbacks, and supported complex escalations.
+- Recognized as Employee of the Month, quarterly top performer, subject-matter expert, and team lead.
+- Maintained more than 99% schedule adherence and two years of perfect attendance.
 
 ### Earlier Experience
 
-- TigerDirect.com — Customer Service Representative, 2008 – 2011
-- Doctors Diabetics — Medical Records Clerk, 2006
+**TigerDirect.com** — Customer Service Representative | February 2008 – April 2011  
+**Doctors Diabetics** — Medical Records Clerk | January 2006 – August 2006
 
 ## Certifications
 
-- Google Project Management Professional Certificate — Coursera
-- Google UX Design Professional Certificate — Coursera
-- Google Digital Marketing & E-commerce Professional Certificate — Coursera
+Google Project Management Professional Certificate  
+Google UX Design Professional Certificate  
+Google Digital Marketing & E-commerce Professional Certificate
 
 ## Education
 
 American Academy — High School Diploma, 2005
 
-## Technology & Tools
+## Technology
 
-Salesforce, HubSpot, SharePoint, RightNow, ClickUp, Asana, Notion, Microsoft 365, Google Workspace, Zapier.
+Salesforce, HubSpot, SharePoint, RightNow, ClickUp, Asana, Notion, Microsoft 365, Google Workspace, GitHub, React, TypeScript, Node.js, Express, Supabase, Postgres, Vite, Tailwind CSS, Zapier, ManyChat, ChatGPT, Claude, Figma, Framer, Canva, Adobe Creative Cloud
