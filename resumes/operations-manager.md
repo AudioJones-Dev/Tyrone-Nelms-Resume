@@ -3,6 +3,7 @@
 **Operations & Business Systems Manager**  
 Florida | Open to Remote U.S. Opportunities  
 Tyrone.nelms87@gmail.com | 786-280-4470  
+LinkedIn: https://www.linkedin.com/in/audiojones  
 Portfolio: https://github.com/AudioJones-Dev
 
 ## Professional Summary
