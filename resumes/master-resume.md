@@ -3,6 +3,7 @@
 Florida | Open to Remote U.S. Opportunities  
 Email: Tyrone.nelms87@gmail.com  
 Phone: 786-280-4470  
+LinkedIn: https://www.linkedin.com/in/audiojones  
 Portfolio: https://github.com/AudioJones-Dev
 
 ## Operations & Business Systems Leader
