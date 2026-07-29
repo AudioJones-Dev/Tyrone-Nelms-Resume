@@ -43,7 +43,9 @@ Remote, full-time, United States
 
 Operations Management, Business Operations, Business Systems, Program Management, Project Management, Implementation Management, Process Improvement, Operational Excellence, Customer Operations, Customer Experience, Workflow Management, Workflow Automation, SOP Development, Documentation, Stakeholder Management, Cross-Functional Leadership, Change Management, CRM, Salesforce, HubSpot, Knowledge Management, Business Memory, AI Operations, AI Governance, Digital Transformation, Field Operations, Contractor Coordination, Escalation Management, Quality Assurance, Training and Mentoring, ClickUp, Asana, Notion, Microsoft 365, Google Workspace, GitHub, React, TypeScript, Node.js, Supabase, Postgres, Zapier
 
-## Portfolio Links
+## Professional Links
+
+LinkedIn: https://www.linkedin.com/in/audiojones
 
 GitHub portfolio: https://github.com/AudioJones-Dev
 
