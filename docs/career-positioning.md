@@ -6,7 +6,11 @@ This file contains positioning strategy, not new facts. Nothing here overrides t
 
 ## Core Positioning Statement
 
-Tyrone Nelms is an operations and AI consultant who helps founder-led and service-based businesses turn scattered tools and reactive workflows into clear operating systems — combining 15+ years of enterprise customer operations, field service, digital marketing, and creative production with current AI-enabled systems work through AJ Digital.
+**Default umbrella title: Operations & Business Systems Architect.**
+
+Tyrone Nelms works across operational discovery, requirements engineering, process and information modeling, future-state design, system specification, implementation, and AI-enabled workflow design. He combines 15+ years of enterprise customer operations, field service, digital delivery, and creative production with current business-systems work through AJ Digital.
+
+The architect title is supported where the work includes system-boundary decisions, canonical records, entity relationships, workflow and lifecycle states, role and permission models, approval gates, integrations, and explicit human/automation boundaries. It does not imply formal enterprise architecture authority, production ownership at enterprise scale, or application-code delivery where the evidence supports specification only.
 
 ## The Narrative Arc
 
@@ -26,6 +30,13 @@ The positioning claim is that layers 1–3 are what make layer 4 credible: the A
 3. **Customer-experience literacy.** Enterprise-grade support discipline (first-call resolution, QA, escalation handling, 99%+ adherence at Alorica). Evidence: `experience/alorica.md`, `experience/unitedhealthcare.md`.
 4. **End-to-end service-business range.** Marketing, creative production, field operations, and back office — the whole surface a small service business actually runs on.
 5. **Evidence discipline.** Unverified metrics stay out of public claims (see Resolved Decisions in `career-history.md`). This is itself a differentiator: credibility as a brand value.
+6. **Discovery as system design.** Structured digital assessments capture actors, responsibilities, handoffs, business rules, exceptions, constraints, information needs, current tools, and failure points so the resulting requirements can govern a future-state process or system specification.
+
+## Professional Operating Model
+
+Business problem → stakeholder discovery → requirements elicitation → current-state process model → business rules and exceptions → data requirements → gap analysis → future-state process → system/application specification → automation or AI boundaries → implementation → iteration.
+
+Use **requirements engineering** as the primary professional term when the work covers elicitation, analysis, documentation, validation, and translation into a system specification. Use **operational discovery** as the plain-language companion term. “Business process discovery” and “systems discovery” are useful secondary keywords; neither should replace the more recognizable requirements-engineering label.
 
 ## Audience Framing
 
@@ -33,9 +44,10 @@ Per [`target-roles.md`](target-roles.md) tiers:
 
 | Audience | Lead with | Downplay |
 |---|---|---|
-| Founder-led service businesses (consulting clients) | Operator credibility, workflow/AI systems outcomes, plain language | Corporate job titles, jargon |
-| AI / digital-transformation roles (Tier 1) | AI workflow design, automation strategy, CRM systems | Creative production detail |
-| Operations / PM / CS roles (Tier 2) | Enterprise operations record, leadership evidence at Alorica, Google PM certificate | Founder framing (keep, but secondary) |
+| Founder-led service businesses (consulting clients) | Operator credibility, operational discovery, workflow and system outcomes, plain language | Corporate job titles, jargon |
+| Business-analysis / architecture roles | Requirements engineering, process and data modeling, system boundaries, role models, approval gates, implementation evidence | Broad founder narrative without artifacts |
+| AI / digital-transformation roles | AI workflow design, automation boundaries, business memory, CRM and operational systems | Creative production detail |
+| Operations / PM / CS roles | Enterprise operations record, field execution, leadership evidence at Alorica, Google PM certificate | Founder framing (keep, but secondary) |
 | Marketing / creative buyers | Campaign execution, media production, brand work | Field-service detail |
 
 ## Language Register
@@ -64,5 +76,4 @@ Per [`target-roles.md`](target-roles.md) tiers:
 
 ## Open Questions
 
-- Decide the single default one-line title for general public use (current candidates: "AI Operations Consultant", "Operations & AI Systems Consultant").
 - Confirm whether AJ Digital is presented as company, brand, or practice per audience (tracked in `career-history.md` Open Questions).

@@ -1,6 +1,6 @@
 # Tyrone Nelms
 
-**AI Operations Consultant**
+**AI & Business Systems Architect**
 
 Miami / Hialeah, Florida  
 Email: Tyrone.nelms87@gmail.com  
@@ -8,19 +8,19 @@ Phone: 786-280-4470
 
 ## Professional Summary
 
-AI Operations Consultant and founder with a background in customer operations, project management, digital marketing, field service, and business systems. Helps founder-led and service-based businesses identify operational bottlenecks, improve response workflows, document processes, and implement AI-enabled systems that support customer experience, internal execution, and revenue operations. Experienced with CRM workflows, automation tools, content systems, and operational documentation.
+AI & Business Systems Architect with experience translating operational problems into requirements, process models, system specifications, implementation plans, and governed AI-enabled workflows. Brings 15+ years across enterprise customer operations, field service, digital delivery, project management, and business systems, with particular strength in human approval gates, operational controls, documentation, and practical adoption.
 
 ## Core Competencies
 
-- AI Workflow Design
-- Business Process Automation
-- Operations Consulting
+- Business Analysis & Requirements Engineering
+- Operational Discovery
+- Process & Information Modeling
+- Application & Workflow Specification
+- AI-Enabled Workflow Design
+- Human-in-the-Loop Controls
+- Systems Implementation
 - CRM & Customer Experience Systems
-- Process Documentation & SOPs
-- Digital Transformation
-- Knowledge Management
-- Project Management
-- Automation Strategy
+- Documentation & SOPs
 
 ## Professional Experience
 
@@ -55,7 +55,7 @@ February 2022 – Present
 ### AHLO Inc.
 
 **Consolidated Operations / Sales / Office Administration**  
-Multiple periods between 2006 and 2022 (consolidated entry)
+2019 – 2023 and 2006 – 2007
 
 - Supported order management, customer service, data entry, shipping and receiving, and administrative operations.
 - Directed daily operations and supported team alignment with business goals.
@@ -63,7 +63,7 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### UnitedHealthcare
 
 **Provider Services Representative**  
-2017 – 2019 (approximate)
+2016 – 2018
 
 - Researched customer and provider issues to identify problems and develop resolutions.
 - Delivered positive customer experiences through quality assurance practices and professional communication.
@@ -71,7 +71,7 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### Alorica
 
 **Commercial Account Specialist Sr. Rep**  
-2015 – 2017 (approximate)
+2015
 
 - Resolved commercial account issues using Salesforce, RightNow, SharePoint, and internal systems (STMS, OMS, RIO, DocDNA).
 - Documented caller questions, contracts, required steps, and final resolutions; supported first-call resolution goals.
@@ -80,7 +80,12 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### Earlier Experience
 
 - TigerDirect.com — Customer Service Representative, 2008 – 2011
-- Doctors Diabetics — Medical Records Clerk, 2006
+
+## Selected Systems Evidence
+
+- Florida Ramp & Lift FieldOps — operational pilot with shared job records, role-specific views, safety steps, billing drafts, and approval gates.
+- VPL Flow — specified operations-system architecture covering requirements, equipment identity, configuration, freight, custody, permissions, and workflow controls. No application code or production deployment is claimed.
+- Private repository walkthroughs are available for qualified hiring discussions.
 
 ## Certifications
 

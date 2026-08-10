@@ -8,12 +8,12 @@ Four service lines, each with a full capability statement in the repository. All
 
 ## AI Operations Consulting
 
-Practical, incremental AI adoption for service businesses — built on documented workflows rather than instead of them. Discovery → documentation → selective automation → implementation support. Deliberately excluded: custom software engineering.
+Practical, incremental AI adoption for service businesses—built on documented requirements and workflows rather than instead of them. Operational discovery → requirements → selective automation → implementation support. Deliberately excluded: unsupported production or custom-software claims.
 [Full statement →](https://github.com/AudioJones-Dev/Tyrone-Nelms-Resume/blob/main/capability-statements/ai-operations-consultant.md)
 
 ## Operations & Business Systems Consulting
 
-The operational backbone: documented processes, clear workflows, usable CRM systems, handoffs that don't leak. For businesses whose growth has outrun their informal systems.
+The operational backbone: requirements, documented processes, clear information flows, usable business systems, role-based views, and handoffs that do not leak.
 [Full statement →](https://github.com/AudioJones-Dev/Tyrone-Nelms-Resume/blob/main/capability-statements/operations-systems-consultant.md)
 
 ## Project Management

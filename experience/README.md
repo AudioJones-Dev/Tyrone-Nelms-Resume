@@ -9,9 +9,9 @@ Role-level source records by employer or project. These files are **internal sou
 | [aj-digital.md](aj-digital.md) | AJ Digital / Freelance Consulting | verified (April 2020 – Present) |
 | [florida-ramp-lift.md](florida-ramp-lift.md) | Florida Ramp & Lift | verified_current (independent contractor) |
 | [miami-spin360.md](miami-spin360.md) | Miami Spin 360 | verified (February 2022 – Present) |
-| [ahlo.md](ahlo.md) | AHLO Inc. | consolidated; date reconciliation pending |
-| [unitedhealthcare.md](unitedhealthcare.md) | UnitedHealthcare | approximate; exact dates fuzzy |
-| [alorica.md](alorica.md) | Alorica | approximate; exact end date fuzzy |
+| [ahlo.md](ahlo.md) | AHLO Inc. | approved chronology (2006–2007 and 2019–2023) |
+| [unitedhealthcare.md](unitedhealthcare.md) | UnitedHealthcare | approved chronology (2016–2018) |
+| [alorica.md](alorica.md) | Alorica | approved chronology (2015) |
 | [tigerdirect.md](tigerdirect.md) | TigerDirect.com | verified (February 2008 – April 2011) |
 
 ## Conventions

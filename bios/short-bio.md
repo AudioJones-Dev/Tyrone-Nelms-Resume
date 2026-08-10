@@ -7,7 +7,7 @@
 
 ## Approved Wording
 
-> Tyrone Nelms is an operations and AI consultant and founder of AJ Digital, helping founder-led service businesses turn scattered tools and reactive workflows into clear operating systems. His 15+ year background spans enterprise customer operations, field service, digital marketing, and creative production.
+> Tyrone Nelms is an Operations & Business Systems Architect and founder of AJ Digital. He turns operational knowledge into requirements, process models, system specifications, and governed workflows, grounded in 15+ years across enterprise customer operations, field service, digital delivery, and creative production.
 
 ## Optional Wording
 

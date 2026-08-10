@@ -5,7 +5,7 @@ Canonical repository for the entire LinkedIn presence. The live LinkedIn profile
 Framing derives from [`docs/career-positioning.md`](../docs/career-positioning.md) and [`docs/professional-brand.md`](../docs/professional-brand.md). Facts derive from [`docs/career-history.md`](../docs/career-history.md) and the experience records. The rules that bind every file here:
 
 - No unverified metrics (Tier C in [`docs/achievement-library.md`](../docs/achievement-library.md)) anywhere on LinkedIn.
-- Year-only dates for fuzzy older roles (Alorica, UnitedHealthcare), per the Resolved Decisions in `career-history.md`.
+- Approved chronology is authoritative: AHLO 2006–2007 and 2019–2023; TigerDirect 2008–2011; Alorica 2015; UnitedHealthcare 2016–2018.
 - Voice rules from `professional-brand.md`: plain over impressive, evidence-humble, no hype vocabulary.
 - Client-identifying content follows the gates in [`docs/case-studies.md`](../docs/case-studies.md).
 
@@ -31,9 +31,9 @@ Framing derives from [`docs/career-positioning.md`](../docs/career-positioning.m
 
 | Surface | File status | Deployed to LinkedIn |
 |---|---|---|
-| Headline | drafted, pending final option choice | no |
-| About | deploy-ready | no |
-| Experience | deploy-ready | no |
+| Headline | second-pass source prepared; operator review pending | no |
+| About | second-pass source prepared; operator review pending | no |
+| Experience | second-pass source prepared; operator review pending | no |
 | Featured | gated items pending | no |
 | Recommendations | strategy drafted | no |
 
@@ -41,5 +41,4 @@ Update this table whenever the live profile changes.
 
 ## Open Items
 
-- Confirm the LinkedIn public URL and record it in `docs/professional-brand.md` (tracked in `career-history.md` Open Questions).
-- Choose the final headline option (see `headline.md` recommendation).
+- Apply the approved source to the live profile only under a separate deployment approval.

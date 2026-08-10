@@ -2,7 +2,7 @@
 
 Deploy-ready copy for every LinkedIn Experience entry. Titles and dates come from [`docs/career-history.md`](../docs/career-history.md); descriptions draw only on the experience records and Tier A/B achievements in [`docs/achievement-library.md`](../docs/achievement-library.md).
 
-Date conventions: full month/year where canonically verified; **year-only** for Alorica and UnitedHealthcare (leave LinkedIn's month field blank); AHLO is one consolidated entry.
+Date conventions: use the approved chronology exactly. AHLO requires two entries so LinkedIn does not imply continuous employment across the gap.
 
 ---
 
@@ -14,12 +14,12 @@ Date conventions: full month/year where canonically verified; **year-only** for 
 
 Description:
 
-> I help founder-led and service-based businesses move from scattered tools and reactive workflows into clear operating systems.
+> I translate operational problems into requirements, process models, system specifications, implementation plans, and governed AI-enabled workflows.
 >
-> - Strategic consultation and operational management across digital marketing, business operations, and workflow improvement
-> - AI-supported workflow design, process documentation, and business systems for service businesses
+> - Structured operational discovery and requirements engineering across business operations, customer experience, and workflow improvement
+> - Current-state and future-state process design, system specification, and AI-supported workflow design
 > - Client project management in ClickUp, Asana, Notion, Google Workspace, and Microsoft 365
-> - Content creation, brand strategy, and ad management supporting visibility and conversions
+> - Implementation support, operational documentation, and stakeholder translation
 
 ## Florida Ramp & Lift
 
@@ -41,20 +41,20 @@ Description:
 
 > Client-facing event production: planning and on-site execution, photo booth operations, photography, and videography.
 
-## AHLO Inc. (consolidated)
+## AHLO Inc. — Later Period
 
-- **Title:** Operations / Sales / Office Administration (Multiple Periods)
-- **Dates:** 2006 – 2022 (year-only; LinkedIn date fields cannot express gaps — the title and description carry the clarification)
+- **Title:** Operations / Sales / Office Administration
+- **Dates:** 2019 – 2023
 - **Location:** Miami / Doral, Florida
 
 Description:
 
-> This was not a continuous 16-year role; it is a consolidated entry across multiple engagement periods between 2006 and 2022. Functions across those periods: warehouse and shipping/receiving, office administration, order management, customer service, sales support, and daily operations direction.
+> Office administration, order management, customer service, sales support, and daily operations coordination in a small-business environment.
 
 ## UnitedHealthcare
 
 - **Title:** Provider Services Representative
-- **Dates:** 2017 – 2019 (year-only)
+- **Dates:** 2016 – 2018 (year-only)
 - **Location:** Miramar, Florida
 
 Description:
@@ -64,7 +64,7 @@ Description:
 ## Alorica
 
 - **Title:** Commercial Account Specialist Sr. Rep
-- **Dates:** 2015 – 2017 (year-only)
+- **Dates:** 2015 (year-only)
 - **Location:** Miami, Florida
 
 Description:
@@ -76,25 +76,26 @@ Description:
 ## TigerDirect.com
 
 - **Title:** Customer Service Representative
-- **Dates:** February 2008 – April 2011
+- **Dates:** 2008 – 2011
 
 Description:
 
 > Inbound customer service, account management, low-level technical support, and inbound sales.
 
-## Doctors Diabetics
+## AHLO Inc. — Earlier Period
 
-- **Title:** Medical Records Clerk
-- **Dates:** January 2006 – August 2006
+- **Title:** Warehouse Clerk
+- **Dates:** 2006 – 2007
+- **Location:** Miami / Doral, Florida
 
 Description:
 
-> Data entry and medical records processing.
+> Data entry, shipping, receiving, warehouse support, and customer-service coordination.
 
 ---
 
 ## Rules
 
 - LinkedIn's three concurrent "Present" roles are intentional: consulting practice + creative engagement + field-service contract, per the positioning in `docs/career-positioning.md`. Do not hide any of them.
-- If LinkedIn's UI forces a month on the year-only roles, do not guess one — leave the entry year-only or use the earliest defensible year boundary with no month claim in the description.
+- If LinkedIn's UI forces a month on a year-only role, do not guess one. Preserve the approved year range in the description and wait for operator review before entering a month.
 - Update this file first, then the live profile, whenever a role changes.

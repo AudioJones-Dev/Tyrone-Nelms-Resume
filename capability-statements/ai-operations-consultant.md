@@ -2,7 +2,7 @@
 
 ## Overview
 
-AJ Digital helps founder-led and service-based businesses put AI to work in their operations — practically, incrementally, and on top of documented workflows rather than instead of them. The practice is led by Tyrone Nelms (see `bios/consultant-bio.md`), whose 15+ years inside service-business operations keep the work grounded in how the business actually runs.
+AJ Digital helps founder-led and service-based businesses put AI to work in their operations—practically, incrementally, and on top of documented workflows rather than instead of them. The practice is led by Operations & Business Systems Architect Tyrone Nelms (see `bios/consultant-bio.md`), whose 15+ years inside service-business operations keep the work grounded in how the business actually runs.
 
 ## Ideal Client
 
@@ -18,14 +18,14 @@ Founder-led or small/mid-size service businesses with real operational volume �
 
 ## Approach
 
-1. **Discovery** — map how work actually flows today, from first customer contact to delivery.
+1. **Operational discovery and requirements** — capture actors, responsibilities, handoffs, rules, exceptions, constraints, information needs, current tools, and failure points.
 2. **Documentation first** — write the workflow down before changing it; automation built on undocumented process doesn't survive staff changes.
 3. **Selective automation** — apply AI and automation where the documented workflow shows repeatable, rules-describable work.
 4. **Implementation support** — build alongside the team, not over them; leave the documentation behind.
 
 ## Core Competencies
 
-AI workflow design · business process automation · process documentation and SOPs · CRM and automation strategy · knowledge management · customer experience systems · operational intelligence (per `docs/skills.md`).
+Business analysis · requirements engineering · AI-enabled workflow design · process and information modeling · business process automation · human approval boundaries · process documentation and SOPs · CRM and automation strategy · knowledge management (per `docs/skills.md`).
 
 ## Relevant Experience
 

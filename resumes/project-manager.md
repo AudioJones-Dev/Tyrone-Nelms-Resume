@@ -8,7 +8,7 @@ Phone: 786-280-4470
 
 ## Professional Summary
 
-Project management and operations professional with experience planning and delivering client projects across digital marketing, business operations, creative production, and field service. Skilled in stakeholder communication, cross-functional coordination, task and timeline management, documentation, and status reporting. Google-certified in project management, with hands-on experience running client work in ClickUp, Asana, and Notion.
+Project and systems implementation professional with experience translating business needs into requirements, deliverables, owners, timelines, process changes, and implementation plans across business operations, digital delivery, creative production, and field service. Skilled in stakeholder communication, cross-functional coordination, decision and risk tracking, documentation, and status reporting. Google-certified in project management, with hands-on delivery experience in ClickUp, Asana, and Notion.
 
 ## Core Competencies
 
@@ -52,7 +52,7 @@ February 2022 – Present
 ### AHLO Inc.
 
 **Consolidated Operations / Sales / Office Administration**  
-Multiple periods between 2006 and 2022 (consolidated entry)
+2019 – 2023 and 2006 – 2007
 
 - Monitored customer order processes from placement through resolution.
 - Coordinated across sales, warehouse, and administrative functions.
@@ -61,14 +61,14 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### UnitedHealthcare
 
 **Provider Services Representative**  
-2017 – 2019 (approximate)
+2016 – 2018
 
 - Researched provider issues, coordinated resolutions, and communicated outcomes professionally.
 
 ### Alorica
 
 **Commercial Account Specialist Sr. Rep**  
-2015 – 2017 (approximate)
+2015
 
 - Documented caller questions, contracts, required steps, and final resolutions with high accuracy.
 - Coordinated escalations and supervisor callbacks across teams; served as TPSM Team SME.
@@ -77,7 +77,6 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### Earlier Experience
 
 - TigerDirect.com — Customer Service Representative, 2008 – 2011
-- Doctors Diabetics — Medical Records Clerk, 2006
 
 ## Certifications
 

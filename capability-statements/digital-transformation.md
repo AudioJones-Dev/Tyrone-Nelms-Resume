@@ -2,7 +2,7 @@
 
 ## Overview
 
-AJ Digital guides service businesses through practical technology adoption: CRM and automation systems, AI-assisted workflows, and customer experience modernization — sequenced so each change lands before the next begins. Led by Tyrone Nelms (see `bios/consultant-bio.md`), who has adopted, administered, and worked inside these systems from the operator's seat.
+AJ Digital guides service businesses through practical technology adoption: requirements, systems-of-record decisions, CRM and automation workflows, and customer-experience modernization—sequenced so each change lands before the next begins. The work is led by Operations & Business Systems Architect Tyrone Nelms (see `bios/consultant-bio.md`), who has adopted, administered, and worked inside these systems from the operator's seat.
 
 ## Ideal Client
 

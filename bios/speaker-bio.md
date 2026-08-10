@@ -9,13 +9,13 @@ Factual only — no inflated positioning; every clause traceable to the canonica
 
 ## Approved Wording (third person)
 
-> Tyrone Nelms is the founder of AJ Digital, an operations and AI consulting practice for founder-led and service-based businesses. Before consulting, he spent 15+ years inside the workflows he now redesigns — enterprise customer support, healthcare provider services, warehouse and office operations, field service for accessibility equipment, event production, and digital marketing. He speaks about practical AI adoption for service businesses, workflow documentation, and building evidence-based professional systems. He holds Google professional certificates in Project Management, UX Design, and Digital Marketing & E-commerce, and is based in Miami, Florida.
+> Tyrone Nelms is an Operations & Business Systems Architect and founder of AJ Digital. He spent 15+ years inside the workflows he now redesigns — enterprise customer support, healthcare provider services, warehouse and office operations, field service for accessibility equipment, event production, and digital delivery. He speaks about operational discovery, requirements engineering, practical AI adoption, workflow governance, and building evidence-based systems. He holds Google professional certificates in Project Management, UX Design, and Digital Marketing & E-commerce, and is based in Miami, Florida.
 
 ## Optional Wording
 
 One-line version for tight intros:
 
-> Tyrone Nelms is the founder of AJ Digital and an operations and AI consultant who spent 15+ years working the service-business jobs his systems are now built for.
+> Tyrone Nelms is an Operations & Business Systems Architect and founder of AJ Digital who spent 15+ years working inside the operations his systems are designed to support.
 
 ## Open Questions
 

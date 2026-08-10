@@ -8,11 +8,11 @@ The LinkedIn presence is a **deployment target** of this repository: headline, A
 
 ## Current Headline
 
-> AI Operations Consultant | Founder, AJ Digital | Workflow Automation, Business Systems, Customer Experience
+> Operations & Business Systems Architect | Business Analysis, Requirements Engineering, Systems Implementation, AI-Enabled Workflows
 
 ## What Lives in the LinkedIn OS
 
-- **Profile surfaces** — headline options with keyword rationale, deploy-ready About copy, every experience entry with date-honesty rules (approximate dates stay approximate), a gated Featured plan, and a recommendations strategy.
+- **Profile surfaces** — headline options with keyword rationale, prepared About copy, and experience entries using the approved chronology, plus a gated Featured plan and recommendations strategy.
 - **Growth surfaces** — creator positioning, five content pillars mapped to the positioning doctrine, reusable post frameworks with hard guardrails (no unverified metrics, no client leakage), and outreach sequences with stop rules.
 
 ## The Guardrails

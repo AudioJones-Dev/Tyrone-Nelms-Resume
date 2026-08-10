@@ -16,12 +16,14 @@ Context-dependent titles, all traceable to the canonical composite role at AJ Di
 
 | Context | Title |
 |---|---|
-| AI / transformation audiences | AI Operations Consultant |
-| General business audiences | Operations & AI Systems Consultant |
+| Default portfolio / general professional use | Operations & Business Systems Architect |
+| Recruiter searches emphasizing analysis | Senior Business Systems Analyst |
+| Consulting audiences | Business Systems Consultant |
+| AI / transformation audiences | AI & Business Systems Architect |
 | Founder framing | Founder, AJ Digital |
-| Employment applications (Tier 2 roles) | Match the variant resume title (e.g., Operations Manager candidate) |
+| Employment applications | Match the target role when the résumé evidence supports it; retain the umbrella title in the summary |
 
-Do not stack more than two title elements on any single surface (e.g., "AI Operations Consultant | Founder, AJ Digital" is the maximum).
+Do not stack more than two title elements on any single surface (e.g., "Operations & Business Systems Architect | Founder, AJ Digital" is the maximum). Do not use Solutions Architect as a default title until the public record shows stronger cloud/platform architecture, deployment, integration, security, and production-operability evidence.
 
 ## Elevator Pitches
 
@@ -31,7 +33,7 @@ I help service businesses turn scattered tools and reactive workflows into clear
 
 ### Short (≈30 seconds)
 
-I'm an operations and AI consultant. I spent 15+ years inside enterprise customer operations, field service, and digital marketing before founding AJ Digital, where I help founder-led businesses document their processes, fix their workflows, and put AI to work in ways that actually hold up day to day.
+I'm an operations and business systems architect. I spent 15+ years inside enterprise customer operations, field service, and digital delivery before founding AJ Digital. I now turn operational knowledge into requirements, process models, system specifications, and practical workflows that people and technology can execute reliably.
 
 ### Full (≈60 seconds)
 
@@ -58,11 +60,11 @@ Add to the short pitch: the stacked-career narrative from `career-positioning.md
 
 ### Micro (≤25 words)
 
-Tyrone Nelms is an operations and AI consultant helping founder-led service businesses build practical systems — founder of AJ Digital, based in Miami.
+Tyrone Nelms is an operations and business systems architect who turns fragmented work into practical, governed systems.
 
 ### Standard (≤75 words)
 
-Tyrone Nelms is the founder of AJ Digital, an operations and AI consulting practice for founder-led and service-based businesses. His 15+ year background spans enterprise customer operations, healthcare provider services, field service for accessibility equipment, digital marketing, and creative production. That range grounds his consulting: systems designed around how service businesses actually run. He holds Google professional certificates in Project Management, UX Design, and Digital Marketing & E-commerce.
+Tyrone Nelms is an Operations & Business Systems Architect and founder of AJ Digital. His 15+ year background spans enterprise customer operations, healthcare provider services, field service for accessibility equipment, digital delivery, and creative production. He applies that operating experience to requirements engineering, process and information modeling, system specification, implementation, and governed AI-enabled workflows. He holds Google professional certificates in Project Management, UX Design, and Digital Marketing & E-commerce.
 
 ### Extended
 
@@ -73,11 +75,10 @@ Full deploy-ready bio variants (founder, consultant, speaker, media, short, exec
 - [ ] Title matches the Title System for that context.
 - [ ] Contact details match the confirmed-final set.
 - [ ] No Tier C (unverified) claims — check `achievement-library.md`.
-- [ ] Dates match `career-history.md` conventions (year-only for fuzzy roles).
+- [ ] Dates match the approved chronology in `career-history.md`.
 - [ ] Voice passes the "plain over impressive" test.
 
 ## TODO
 
 - Confirm LinkedIn and portfolio URLs, then add them here and to all surfaces in one pass.
-- Decide the default one-line title (tracked in `career-positioning.md` Open Questions).
 - Add a headshot/visual-identity note once assets exist.

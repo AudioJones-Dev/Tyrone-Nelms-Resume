@@ -6,53 +6,52 @@ This file defines target roles and the resume strategy for each audience.
 
 These roles best match the current professional direction.
 
-### AI Operations Consultant
+### Senior Business Systems Analyst
 
 Emphasize:
 
-- AI workflow design
-- Business process automation
-- Operations consulting
-- CRM and customer experience systems
-- Founder-led service business advisory
-- Digital transformation
-- Knowledge management
-
-### Operations Consultant
-
-Emphasize:
-
-- Process improvement
-- SOP development
-- Workflow design
-- Client operations
-- Service delivery
-- Cross-functional execution
-
-### Digital Transformation Consultant
-
-Emphasize:
-
-- Technology adoption
-- CRM and automation systems
-- AI-assisted workflows
-- Project management
-- Customer experience modernization
+- Requirements elicitation and validation
+- Current-state and future-state process modeling
+- Business rules, exceptions, constraints, and data requirements
+- Gap analysis and stakeholder translation
+- System and application specifications
+- Implementation participation
 
 ### Business Systems Consultant
 
 Emphasize:
 
-- Workflow mapping
-- Tool implementation
-- CRM systems
-- Documentation
-- Process architecture
-- Automation strategy
+- Operational discovery
+- Workflow and information design
+- Tool and platform evaluation
+- Requirements-to-implementation continuity
+- Automation and AI boundaries
+- Documentation, SOPs, and adoption
+
+### Operations & Business Systems Architect
+
+Emphasize:
+
+- System boundaries and systems of record
+- Canonical records, schemas, and entity relationships
+- Workflow states, approval gates, and operational controls
+- Role-based interfaces and permissions
+- Human/system handoffs
+- Architecture-to-implementation traceability
+
+### Implementation Manager / Systems Implementation Lead
+
+Emphasize:
+
+- Cross-functional delivery
+- Requirements and acceptance criteria
+- Stakeholder decisions, risks, and dependencies
+- Process rollout and operational adoption
+- Iteration after implementation
 
 ## Tier 2 — Strong Fit
 
-### Operations Manager
+### Operations Manager / Business Operations Manager
 
 Emphasize:
 
@@ -94,6 +93,14 @@ Emphasize:
 - Implementation support
 
 ## Tier 3 — Stretch / Context-Dependent
+
+### Solutions Architect / AI Solutions Architect
+
+Requires stronger public evidence of production cloud/platform architecture, integration ownership, security and nonfunctional requirements, deployment, observability, and operational support. Current evidence supports solution and system specification, but not a broad default Solutions Architect claim.
+
+### Business Architect
+
+Requires clearer enterprise-level capability maps, value streams, operating-model governance, portfolio alignment, and organization-wide transformation authority. Current work overlaps business architecture but is more directly evidenced at the operations and business-systems level.
 
 ### Director of Operations
 

@@ -4,9 +4,9 @@ title: Tyrone Nelms — Professional OS
 
 # Tyrone Nelms
 
-**Operations & AI Systems Consultant | Founder, AJ Digital**
+**Operations & Business Systems Architect | Founder, AJ Digital**
 
-I help founder-led service businesses turn scattered tools and reactive workflows into clear operating systems.
+I translate operational knowledge into requirements, process models, system specifications, implementations, and governed AI-enabled workflows.
 
 This site is the public surface of a version-controlled, evidence-governed professional documentation system. Every claim here traces to a canonical record; unverified metrics are excluded by rule, not by accident. [How the system works →](architecture-pattern.md)
 

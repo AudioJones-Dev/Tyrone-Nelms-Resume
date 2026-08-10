@@ -4,43 +4,43 @@ LinkedIn headline (220-character limit). Derives from the Title System in [`docs
 
 ## Options
 
-### Option A — AI Operations (recommended default)
+### Option A — Umbrella Positioning (recommended default)
 
-> AI Operations Consultant | Founder, AJ Digital | Workflow Automation, Business Systems, Customer Experience
+> Operations & Business Systems Architect | Business Analysis, Requirements Engineering, Systems Implementation, AI-Enabled Workflows
 
-(Comma-separated keyword list rather than a trailing ampersand — reads cleaner at the same keyword coverage.)
+- Leads with the approved umbrella title.
+- Carries the highest-value recruiter and ATS terms without claiming a separate employer title.
 
-- Fits Tier 1 target roles (`docs/target-roles.md`) and consulting discovery.
-- Leads with the searchable role phrase recruiters and founders actually type.
+### Option B — Analyst Search Variant
 
-### Option B — Operations / Consulting
+> Senior Business Systems Analyst | Requirements Engineering, Process Design, Systems Implementation
 
-> Operations & AI Systems Consultant | Project Management, Digital Transformation & Business Process Design
+- Best when recruiter search behavior favors the conventional analyst title.
+- Communicates the analysis-to-implementation range without using Architect as the first search term.
 
-- Better if pursuing Tier 2 employment (ops/PM roles) more actively than consulting.
+### Option C — Consulting Variant
 
-### Option C — Broader Professional Brand
+> Business Systems Consultant | Operational Discovery, Process Design, Implementation & AI-Enabled Workflows
 
-> Founder & AI Operations Consultant | Helping Service Businesses Improve Workflows, Customer Experience & Revenue Operations
-
-- Most client-facing; strongest for a consulting-first season, weakest for recruiter search.
+- Best for consulting-partner and founder audiences while remaining legible to hiring managers.
 
 ## Recommendation
 
-Use **Option A** as the working default: it satisfies the two-element title rule, contains the highest-value search keywords, and matches the core positioning statement in `career-positioning.md`. Final selection is an open decision tracked in `career-positioning.md` → Open Questions; switching options later is a one-line deploy.
+Use **Option A** as the working default. Use Option B only for an analyst-led search campaign and Option C only for a consulting-led campaign. The live profile remains a separately approved deployment target.
 
 ## Keyword Rationale
 
 Recruiter/founder search terms covered, all traceable to `docs/skills.md`:
 
-- "AI Operations" / "AI Consultant" — Tier 1 discovery
-- "Workflow Automation" — consulting-intent searches
-- "Business Systems" — bridges ops and consulting audiences
-- "Customer Experience" — links the enterprise support record to the current offer
+- "Operations & Business Systems Architect" — approved umbrella positioning
+- "Business Analysis" / "Senior Business Systems Analyst" — recruiter and ATS recognition
+- "Requirements Engineering" — discovery-through-specification scope
+- "Systems Implementation" — differentiates the work from analysis-only positioning
+- "AI-Enabled Workflows" — current AI relevance without making AI the entire identity
 
 Not used (deliberately): "agents", "orchestration", "AI OS" — internal register, per the language rules in `career-positioning.md`.
 
 ## Rules
 
 - Never let the headline claim a metric or credential; it is positioning only.
-- Revisit the headline whenever the default title decision is made or the target-role tier focus shifts.
+- Revisit the active option when the target-role mix changes; do not change the evidence boundary.

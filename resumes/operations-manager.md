@@ -8,7 +8,7 @@ Phone: 786-280-4470
 
 ## Professional Summary
 
-Operations professional with experience across customer service operations, healthcare provider support, sales operations, field service, digital marketing, and team coordination. Skilled in process improvement, documentation, CRM systems, stakeholder communication, workflow management, and cross-functional execution. Combines practical field experience with structured operations thinking and a strong customer-service foundation.
+Operations and business systems professional with experience across customer operations, healthcare provider support, field service, digital delivery, and cross-functional execution. Applies business analysis, requirements discovery, process design, documentation, and systems implementation to make operational work visible, repeatable, and easier to manage. Combines practical field experience with structured systems thinking and a strong customer-service foundation.
 
 ## Core Competencies
 
@@ -55,7 +55,7 @@ February 2022 – Present
 ### AHLO Inc.
 
 **Consolidated Operations / Sales / Office Administration**  
-Multiple periods between 2006 and 2022 (consolidated entry)
+2019 – 2023 and 2006 – 2007
 
 - Directed daily operations and supported team alignment with business goals.
 - Supported data entry, shipping, receiving, order management, customer service, and administrative operations.
@@ -65,7 +65,7 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### UnitedHealthcare
 
 **Provider Services Representative**  
-2017 – 2019 (approximate)
+2016 – 2018
 
 - Answered inbound calls to support provider questions, payment options, and issue resolution.
 - Researched customer and provider issues to identify problems and develop resolutions.
@@ -74,7 +74,7 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### Alorica
 
 **Commercial Account Specialist Sr. Rep**  
-2015 – 2017 (approximate)
+2015
 
 - Served as team lead and TPSM Team SME; hosted team huddles and provided floor support for new hires.
 - Trained, mentored, and coached team members; assisted with supervisor callbacks, escalations, and special cases.
@@ -84,7 +84,6 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### Earlier Experience
 
 - TigerDirect.com — Customer Service Representative, 2008 – 2011
-- Doctors Diabetics — Medical Records Clerk, 2006
 
 ## Certifications
 

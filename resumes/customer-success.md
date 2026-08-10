@@ -8,7 +8,7 @@ Phone: 786-280-4470
 
 ## Professional Summary
 
-Customer experience and operations professional with enterprise support experience across commercial accounts, healthcare provider services, escalation handling, documentation, CRM systems, technical support, and customer resolution. Recognized for high performance, attendance, adherence, team support, and mentoring, with the ability to communicate clearly with customers, internal teams, and stakeholders.
+Customer experience and business systems professional with enterprise support experience across commercial accounts, healthcare provider services, escalation handling, requirements discovery, documentation, CRM systems, technical support, and customer resolution. Recognized for high performance, attendance, adherence, team support, and mentoring, with the ability to translate customer and operational needs into clearer processes and system requirements.
 
 ## Core Competencies
 
@@ -51,7 +51,7 @@ February 2022 – Present
 ### AHLO Inc.
 
 **Consolidated Operations / Sales / Office Administration**  
-Multiple periods between 2006 and 2022 (consolidated entry)
+2019 – 2023 and 2006 – 2007
 
 - Placed orders and answered customer questions in person, by email, and over the phone.
 - Contacted new and existing customers to communicate product benefits.
@@ -60,7 +60,7 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### UnitedHealthcare
 
 **Provider Services Representative**  
-2017 – 2019 (approximate)
+2016 – 2018
 
 - Answered inbound calls to provide information, answer provider questions, and discuss payment options.
 - Researched customer and provider issues to understand problems and develop successful resolutions.
@@ -70,7 +70,7 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### Alorica
 
 **Commercial Account Specialist Sr. Rep**  
-2015 – 2017 (approximate)
+2015
 
 - Resolved commercial account issues using Salesforce, RightNow, SharePoint, and internal systems (STMS, OMS, RIO, DocDNA).
 - Made outbound calls to clients, authorized dealers, and technicians to resolve caller questions and issues.
@@ -83,14 +83,10 @@ Multiple periods between 2006 and 2022 (consolidated entry)
 ### TigerDirect.com
 
 **Customer Service Representative**  
-February 2008 – April 2011
+2008 – 2011
 
 - Handled inbound customer service calls and managed customer accounts.
 - Provided low-level technical support and supported inbound sales.
-
-### Earlier Experience
-
-- Doctors Diabetics — Medical Records Clerk, 2006
 
 ## Certifications
 

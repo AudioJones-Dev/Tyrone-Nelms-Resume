@@ -1,29 +1,30 @@
 # Tyrone Nelms
 
+**Operations & Business Systems Architect**
+
 Miami / Hialeah, Florida  
 Email: Tyrone.nelms87@gmail.com  
 Phone: 786-280-4470  
-LinkedIn: TODO  
-Portfolio / Website: TODO
+LinkedIn: https://www.linkedin.com/in/audiojones/
+
+Portfolio / Website: https://tyronenelms.com
 
 ## Professional Summary
 
-Operations and AI consultant with 15+ years of experience spanning enterprise customer operations, digital marketing, project management, accessibility services, creative production, and business systems. Experienced leading cross-functional initiatives, improving operational processes, implementing technology-enabled workflows, and helping organizations modernize through automation and AI-supported systems. Combines corporate operations experience with entrepreneurial leadership to bridge strategy, execution, customer experience, and practical implementation.
+Operations & Business Systems Architect with 15+ years of experience spanning enterprise customer operations, field-service execution, digital delivery, project management, creative production, and business systems. Works across operational discovery, requirements engineering, current-state and future-state process design, system specification, implementation, and governed AI-enabled workflows. Translates business needs, technical constraints, and real-world execution into systems teams can use.
 
 ## Core Competencies
 
-- AI Operations & Workflow Design
-- Operations Management
-- Project Management
-- Customer Experience
-- CRM & Business Systems
-- Digital Marketing
-- Brand Strategy
-- Process Improvement
-- Team Leadership
+- Business Analysis & Requirements Engineering
+- Operational Discovery
+- Current-State & Future-State Process Design
+- Business Rules, Exceptions & Data Requirements
+- Systems Analysis & Application Specification
+- Systems Implementation
+- AI-Enabled Workflow Design
+- Operational Controls & Approval Gates
+- Stakeholder Translation
 - Documentation & SOPs
-- Creative Production
-- Field Operations
 
 ## Professional Experience
 
@@ -47,7 +48,6 @@ July 2023 – Present
 - Support technical troubleshooting, logistics coordination, customer communication, and field execution.
 - Contribute to marketing and operations improvements in a service-business environment.
 - Support safe and practical implementation of accessibility-related field work.
-- TODO: verify whether to include the 20% operational cost reduction claim publicly.
 
 ### Miami Spin 360
 
@@ -61,19 +61,18 @@ February 2022 – Present
 ### AHLO Inc.
 
 **Consolidated Operations / Sales / Office Administration**  
-Multiple periods — consolidated entry
+2019 – 2023 and 2006 – 2007
 
 - Supported data entry, shipping, receiving, order management, customer service, and administrative operations.
 - Placed orders and answered customer questions in person, by email, and over the phone.
 - Contacted new and existing customers to communicate product benefits and support sales activity.
 - Monitored order processes and addressed customer issues.
 - Directed daily operations and supported team alignment with business goals according to 2024 resume.
-- TODO: verify 15% productivity improvement claim before public use.
 
 ### UnitedHealthcare
 
 **Provider Services Representative**  
-Date range approximate — exact dates fuzzy / needs verification
+2016 – 2018
 
 - Answered inbound calls to provide information, answer questions, and discuss payment options.
 - Researched customer and provider issues to understand problems and develop successful resolutions.
@@ -83,7 +82,7 @@ Date range approximate — exact dates fuzzy / needs verification
 ### Alorica
 
 **Commercial Account Specialist Sr. Rep**  
-January 2015 – approximate end date fuzzy / needs verification
+2015
 
 - Used systems including Salesforce, RightNow, SharePoint, STMS, OMS, RIO, and DocDNA to resolve customer and commercial account issues.
 - Made outbound calls to clients, authorized dealers, and technicians to resolve caller questions and issues.
@@ -96,24 +95,16 @@ January 2015 – approximate end date fuzzy / needs verification
 ### TigerDirect.com
 
 **Customer Service Representative**  
-February 2008 – April 2011
+2008 – 2011
 
 - Handled inbound customer service calls.
 - Supported account management, low-level technical support, and inbound sales.
 
-### Doctors Diabetics
-
-**Medical Records Clerk**  
-January 2006 – August 2006
-
-- Performed data entry and records processing.
-
 ## Certifications
 
-- Google UX Design Professional Certificate — Coursera verification link available.
-- Google Project Management Professional Certificate — Coursera verification link available.
-- Google Digital Marketing & E-commerce Professional Certificate — Coursera verification link available.
-- PCMA Certified Instructor in Crisis Prevention — TODO verify credential status and exact name.
+- [Google UX Design Professional Certificate](https://www.coursera.org/account/accomplishments/verify/9IL9J2A227WX)
+- [Google Project Management Professional Certificate](https://www.coursera.org/account/accomplishments/verify/UQNCWTGZ2CAJ)
+- [Google Digital Marketing & E-commerce Professional Certificate](https://www.coursera.org/account/accomplishments/verify/62TWK3XG9MKA)
 
 ## Education
 
@@ -123,11 +114,8 @@ American Academy — High School Diploma, 2005
 
 Salesforce, HubSpot, SharePoint, RightNow, STMS, OMS, RIO, DocDNA, ClickUp, Asana, Notion, Microsoft 365, Google Workspace, Canva, Adobe Premiere, Photoshop, Lightroom, InDesign, Figma, Framer, ManyChat, Zapier, ChatGPT, Claude.
 
-## Resume TODO Before Public Use
+## Selected Systems Evidence
 
-- Confirm LinkedIn URL and portfolio links.
-- Confirm whether to use approximate year-only dates for fuzzy older roles.
-- Confirm exact Alorica end date if employment records are available.
-- Confirm UnitedHealthcare exact dates if employment records are available.
-- Add certificate issue dates and exact names.
-- Remove or verify all TODO claims before exporting PDF/DOCX.
+- Florida Ramp & Lift FieldOps — operational pilot; field-service records, role-specific views, safety steps, billing drafts, and approval gates.
+- VPL Flow — specified operations-system architecture; requirements, domain model, permissions, lifecycle controls, and human-system boundaries. No application code or production deployment is claimed.
+- Private repositories are available for qualified walkthroughs; no private repository URL is published.

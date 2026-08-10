@@ -2,7 +2,7 @@
 
 ## Public Resume Treatment
 
-Consolidated entry.
+Consolidated entry: **2006–2007 and 2019–2023**.
 
 The user confirmed AHLO can be consolidated rather than split into separate public resume entries.
 
@@ -19,15 +19,14 @@ Miami / Doral, Florida
 
 ## Dates
 
-Multiple periods across resume versions:
+Approved public chronology:
 
-- August 2006 – August 2007: Warehouse Clerk.
-- June 2012 – Present in 2013 resume: Warehouse Clerk.
-- April 2011 – October 2014: Office Administrator in pasted resume.
-- March 2020 – October 2022: Sales Representative in 2022 resume.
-- April 2018 – March 2020: Operations Manager in 2024 resume.
+- 2006–2007: Warehouse Clerk.
+- 2019–2023: Operations / Sales / Office Administration.
 
-Status: consolidated, date-level reconciliation still needed for final public exports.
+Status: approved current chronology. Earlier source variants are superseded for public use but remain part of the reconciliation history.
+
+Superseded source variants included June 2012–Present in a 2013 résumé, April 2011–October 2014 in a pasted résumé, March 2020–October 2022 in a 2022 résumé, and April 2018–March 2020 in a 2024 résumé.
 
 ## Summary
 
@@ -67,5 +66,4 @@ Long-running operational relationship across warehouse, office administration, s
 ## TODO
 
 - Confirm whether AHLO Inc., Ahlo Inc., or AHLO should be used publicly.
-- Decide final date display: full ranges, year-only, or consolidated periods.
 - Verify 15% productivity improvement before using in a final public resume.

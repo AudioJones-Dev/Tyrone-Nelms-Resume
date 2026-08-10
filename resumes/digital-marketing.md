@@ -8,7 +8,7 @@ Phone: 786-280-4470
 
 ## Professional Summary
 
-Digital marketing and creative operations professional with experience in branding, content creation, photography, videography, podcast production, social media, and campaign execution. Brings a cross-functional background in customer service, operations, project management, and business strategy to support brands, service businesses, and client-facing teams. Google-certified in digital marketing and e-commerce.
+Digital marketing and creative operations professional with experience in branding, content systems, photography, videography, podcast production, social media, and campaign execution. Brings an Operations & Business Systems Architect's approach to discovery, requirements, workflow design, project delivery, and customer experience. Google-certified in digital marketing and e-commerce.
 
 ## Core Competencies
 
@@ -53,17 +53,16 @@ July 2023 – Present
 ### AHLO Inc.
 
 **Consolidated Operations / Sales / Office Administration**  
-Multiple periods between 2006 and 2022 (consolidated entry)
+2019 – 2023 and 2006 – 2007
 
 - Developed and executed digital marketing campaigns supporting brand engagement.
 - Contacted new and existing customers to communicate product benefits and support sales activity.
 
 ### Earlier Experience
 
-- UnitedHealthcare — Provider Services Representative, 2017 – 2019 (approximate)
-- Alorica — Commercial Account Specialist Sr. Rep, 2015 – 2017 (approximate)
+- UnitedHealthcare — Provider Services Representative, 2016 – 2018
+- Alorica — Commercial Account Specialist Sr. Rep, 2015
 - TigerDirect.com — Customer Service Representative, 2008 – 2011
-- Doctors Diabetics — Medical Records Clerk, 2006
 
 ## Certifications
 

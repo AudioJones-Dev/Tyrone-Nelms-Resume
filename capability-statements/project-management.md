@@ -2,7 +2,7 @@
 
 ## Overview
 
-AJ Digital provides project planning, coordination, and delivery support for client initiatives — marketing launches, systems implementations, workflow rollouts, and event productions. Led by Tyrone Nelms (see `bios/consultant-bio.md`), Google-certified in project management with hands-on delivery experience in ClickUp, Asana, and Notion.
+AJ Digital provides project planning, coordination, and systems-implementation support for client initiatives—marketing launches, workflow rollouts, operational systems, and event productions. The work is led by Operations & Business Systems Architect Tyrone Nelms (see `bios/consultant-bio.md`), Google-certified in project management with hands-on delivery experience in ClickUp, Asana, and Notion.
 
 ## Ideal Client
 

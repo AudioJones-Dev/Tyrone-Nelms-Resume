@@ -35,15 +35,15 @@ Internal source records, not public polished copy. See the [experience README](.
 - [AJ Digital / Freelance Consulting](../experience/aj-digital.md) — April 2020 – Present
 - [Florida Ramp & Lift](../experience/florida-ramp-lift.md) — July 2023 – Present (independent contractor, current)
 - [Miami Spin 360](../experience/miami-spin360.md) — February 2022 – Present
-- [AHLO Inc.](../experience/ahlo.md) — multiple periods, consolidated entry
-- [UnitedHealthcare](../experience/unitedhealthcare.md) — dates approximate
-- [Alorica](../experience/alorica.md) — dates approximate
+- [AHLO Inc.](../experience/ahlo.md) — 2006–2007 and 2019–2023, consolidated entry
+- [UnitedHealthcare](../experience/unitedhealthcare.md) — 2016–2018
+- [Alorica](../experience/alorica.md) — 2015
 - [TigerDirect.com](../experience/tigerdirect.md) — February 2008 – April 2011
 
 ## Output Drafts
 
 - [Master Resume (draft)](../resumes/master-resume.md) — see the [resumes README](../resumes/README.md)
-- [AI Operations Consultant Resume (draft)](../resumes/ai-operations-consultant.md)
+- [AI & Business Systems Architect Resume (legacy path)](../resumes/ai-operations-consultant.md)
 - [Operations Manager Resume (draft)](../resumes/operations-manager.md)
 - [Project Manager Resume (draft)](../resumes/project-manager.md)
 - [Customer Success Resume (draft)](../resumes/customer-success.md)

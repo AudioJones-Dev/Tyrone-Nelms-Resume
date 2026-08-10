@@ -10,16 +10,16 @@ Miramar, Florida
 
 ## Dates
 
-Approx. 2017 – 2019
+2016 – 2018
 
-Status: approximate. User confirmed exact end date is fuzzy because the role was a long time ago.
+Status: approved current chronology for public use.
 
 Known source variants:
 
 - 2022 resume: June 2017 – April 2019.
 - 2024 resume: October 2015 – April 2018.
 
-Public resume guidance: use year-only or approximate dates until employment records are verified.
+Public resume guidance: use the approved year-only range, 2016–2018. The source variants above are retained only as reconciliation history.
 
 ## Summary
 
@@ -45,6 +45,5 @@ Healthcare provider support role focused on inbound calls, provider questions, p
 
 ## TODO
 
-- Verify exact employment dates only if records are available.
 - Confirm whether title should be Provider Services Representative or another official title.
 - Add any systems used, performance metrics, or compliance training if verified.

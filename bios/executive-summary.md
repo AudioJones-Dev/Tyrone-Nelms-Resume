@@ -9,7 +9,7 @@
 
 ### Who is Tyrone Nelms?
 
-An operations and AI systems consultant and the founder of AJ Digital. His career is a stacked progression rather than a single lane: enterprise customer operations built the foundation (documentation, escalation handling, CRM discipline); operations and field roles added real-world execution; creative and digital marketing added brand and acquisition; AI-enabled systems work is the current synthesis.
+An Operations & Business Systems Architect and the founder of AJ Digital. His career is a stacked progression rather than a single lane: enterprise customer operations built the foundation in documentation, escalation handling, and CRM discipline; operations and field roles added real-world execution; digital and creative work added delivery range; requirements engineering and business-systems architecture are the current synthesis.
 
 ### What problems does he solve?
 

@@ -4,19 +4,19 @@ Deploy-ready About copy (2,600-character LinkedIn limit; this draft is well unde
 
 ## Deploy Copy
 
-I help founder-led and service-based businesses improve operations, customer experience, and execution through practical systems, workflow design, and AI-enabled automation.
+I am an Operations & Business Systems Architect who turns operational knowledge into requirements, process models, system specifications, and practical systems teams can use.
 
-My background spans enterprise customer operations, provider services, commercial account support, field service, digital marketing, creative production, and project management. That mix gives me a practical view of how businesses actually work: customer calls, internal handoffs, field execution, CRM records, marketing systems, follow-up gaps, and operational bottlenecks.
+My work often starts where the process is fragmented across people, tools, calls, documents, and individual memory. I use structured operational discovery to capture actors, responsibilities, handoffs, business rules, exceptions, constraints, information needs, current software, and failure points.
 
-Through AJ Digital, I focus on helping businesses move from scattered tools and reactive workflows into clearer operating systems. That includes process documentation, CRM and automation strategy, customer experience design, AI-assisted workflows, content systems, and implementation support.
+From there, I work across requirements engineering, current-state and future-state process design, data and information modeling, system boundaries, application specification, implementation, and iteration. When automation or AI is appropriate, I define where it should act, where a person must approve, and how the system records what happened.
 
-Two things shape how I work:
+My background spans enterprise commercial-account operations, healthcare provider services, warehouse and office operations, field service for accessibility equipment, digital delivery, creative production, and project management. That range helps me translate between executives, operators, field teams, customers, and technical contributors.
 
-First, I've done the jobs the systems are for. Support floors, warehouses, field service routes, event productions, ad campaigns. I design workflows around how service businesses actually run, not how a diagram says they should.
+The portfolio shows both implementation and architecture evidence. Florida Ramp & Lift FieldOps is an operational pilot with shared records, role-specific views, safety steps, and approval gates. VPL Flow is specified operations-system architecture covering requirements, equipment identity, configuration, freight, custody, permissions, and workflow controls. VPL Flow is not represented as application code, a deployment, production operation, or a measured outcome.
 
-Second, I only claim results I can back. If a number isn't verified, I don't use it — and I build client systems with that same evidence discipline.
+I only claim results and maturity states I can support. Private repository walkthroughs are available for qualified hiring and partnership discussions.
 
-I'm especially interested in the intersection of operations, AI, customer experience, and founder-led service businesses.
+Target roles include Senior Business Systems Analyst, Business Systems Consultant, Business Systems Architect, Operations Systems Architect, Implementation Manager, Systems Implementation Lead, and Solutions Consultant.
 
 📧 Tyrone.nelms87@gmail.com
 
@@ -29,4 +29,4 @@ I'm especially interested in the intersection of operations, AI, customer experi
 
 ## Shorter Variant (if a tighter About is ever preferred)
 
-I help founder-led service businesses turn scattered tools and reactive workflows into clear operating systems — process documentation, CRM and automation strategy, and AI-assisted workflows that hold up day to day. Fifteen-plus years across enterprise customer operations, field service, digital marketing, and creative production ground the work: I've done the jobs these systems are for, and I only claim results I can back. 📧 Tyrone.nelms87@gmail.com
+Operations & Business Systems Architect with 15+ years across enterprise customer operations, field service, digital delivery, and business systems. I translate operational discovery into requirements, process models, system specifications, implementation plans, and governed AI-enabled workflows—and I state clearly whether the evidence is specified, implemented, or operational. 📧 Tyrone.nelms87@gmail.com

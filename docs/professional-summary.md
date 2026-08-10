@@ -4,11 +4,19 @@ This file contains reusable professional summary variants. Use the version that 
 
 ## Master Summary
 
-Operations and AI consultant with 15+ years of experience spanning enterprise customer operations, digital marketing, project management, accessibility services, creative production, and business systems. Experienced leading cross-functional initiatives, improving operational processes, implementing technology-enabled workflows, and helping organizations modernize through automation and AI-supported systems. Combines corporate operations experience with entrepreneurial leadership to bridge strategy, execution, customer experience, and practical implementation.
+Operations & Business Systems Architect with 15+ years of experience spanning enterprise customer operations, field-service execution, digital delivery, project management, creative production, and business systems. Works across operational discovery, requirements engineering, process and information modeling, future-state design, system specification, implementation, and governed AI-enabled workflows. Combines corporate operations experience with entrepreneurial delivery to translate business needs, technical constraints, and real-world execution into systems teams can use.
 
-## AI Operations Consultant Summary
+## Senior Business Systems Analyst Summary
 
-AI Operations Consultant and founder with a background in customer operations, project management, digital marketing, field service, and business systems. Helps founder-led and service-based businesses identify operational bottlenecks, improve response workflows, document processes, and implement AI-enabled systems that support customer experience, internal execution, and revenue operations. Experienced with CRM workflows, automation tools, content systems, and operational documentation.
+Senior business systems analyst with experience eliciting and documenting requirements, mapping current-state processes, identifying business rules and exceptions, defining data and information needs, analyzing gaps, and translating findings into future-state workflows and system specifications. Particularly effective where operational knowledge is fragmented across stakeholders, tools, handoffs, and undocumented decisions.
+
+## Operations & Business Systems Architect Summary
+
+Operations and business systems architect who designs the operating logic beneath applications and automation: system boundaries, canonical records, entity relationships, workflow states, role-based views, approval gates, operational controls, and human/technology handoffs. Evidence includes active field-service systems work and specified vertical-platform-lift operations architecture. Maturity labels remain explicit: specified architecture is not represented as deployed software.
+
+## AI & Business Systems Architect Summary
+
+AI & Business Systems Architect with experience identifying operational bottlenecks, eliciting requirements, modeling current and future workflows, specifying applications and automations, and defining human approval and operational-control boundaries. Brings a background in customer operations, project management, digital delivery, field service, and business systems to AI-enabled work without representing specified architecture as deployed software.
 
 ## Operations / Project Management Summary
 

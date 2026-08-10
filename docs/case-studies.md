@@ -17,6 +17,8 @@ Note on repository visibility: this repository is public, so even pipeline entri
 
 Naming rule for the pipeline: only engagements already public in the canonical records may be named here (e.g., Florida Ramp & Lift and Miami Spin 360, which appear on the published resumes — listing them as candidates discloses nothing new). AJ Digital client identities, engagement-specific outcomes, and internal details remain unnamed and undrafted until the gates are met.
 
+The operator approved the VPL Flow public boundary on 2026-08-10: it may be described as **specified operations-system architecture** supported by a private repository with a walkthrough available. Public copy must state that no application code or production deployment is claimed.
+
 ## Candidate Pipeline
 
 Status values: `idea` → `evidence-gathering` → `client-approval` → `drafting` → `published`.
@@ -28,6 +30,7 @@ Status values: `idea` → `evidence-gathering` → `client-approval` → `drafti
 | 3 | Content and ad management supporting brand visibility and conversions | AJ Digital client work | idea | Analytics evidence + client approval |
 | 4 | Field-service operations support for an accessibility business | Florida Ramp & Lift | idea | Company approval; public scope review flagged in `experience/florida-ramp-lift.md` |
 | 5 | Event production operations (photo booth / media delivery at scale) | Miami Spin 360 | idea | Company approval |
+| 6 | VPL Flow — vertical-platform-lift operations architecture | Private systems work | drafting | Source copy only; publication remains separately gated |
 
 None of the above has named clients, dates, or outcomes on file yet. Do not draft specifics until a row reaches `drafting`.
 

@@ -1,6 +1,6 @@
 # Tyrone Nelms
 
-**Operations & AI Systems Consultant | Founder, AJ Digital**
+**Operations & Business Systems Architect | Founder, AJ Digital**
 
 Miami / Hialeah, Florida  
 Email: Tyrone.nelms87@gmail.com  
@@ -8,7 +8,7 @@ Phone: 786-280-4470
 
 ## Executive Summary
 
-Operations and AI consultant whose career stacks four layers of service-business competence: enterprise customer operations, hands-on field and administrative execution, digital marketing and creative production, and — currently — the design of AI-enabled business systems that tie the rest together. Founded AJ Digital to give founder-led service businesses the operational infrastructure larger companies take for granted: documented processes, trustworthy CRM systems, and automation that survives staff changes. Works to an evidence standard: processes mapped before they are changed, and no outcome claimed without support.
+Operations & Business Systems Architect whose career stacks enterprise customer operations, hands-on field and administrative execution, digital delivery and creative production, and the design of governed business systems. Works from operational discovery and requirements engineering through current-state and future-state process design, system specification, implementation, and iteration. Applies an evidence standard throughout: processes are mapped before they are changed, architectural maturity is stated explicitly, and no outcome is claimed without support.
 
 ## Leadership & Systems Evidence
 
@@ -21,7 +21,7 @@ Operations and AI consultant whose career stacks four layers of service-business
 
 ## Professional Experience
 
-### AJ Digital — Founder / Operations & AI Systems Consultant
+### AJ Digital — Founder / Operations & Digital Marketing Specialist / AI Operations Consultant
 
 April 2020 – Present
 
@@ -39,28 +39,33 @@ February 2022 – Present
 
 Client-facing event production under fixed dates and real-time constraints: planning, on-site decision-making, and media delivery.
 
-### AHLO Inc. — Operations / Sales / Office Administration (Multiple Periods)
+### AHLO Inc. — Operations / Sales / Office Administration (Consolidated Periods)
 
-Multiple periods between 2006 and 2022 (consolidated entry)
+2019 – 2023 and 2006 – 2007
 
 Long-running operational relationship of increasing trust: warehouse and shipping, office administration, order management, customer operations, sales support, and daily operations direction. The breadth — not any single role — is the qualification: end-to-end familiarity with how a small business actually runs.
 
 ### UnitedHealthcare — Provider Services Representative
 
-2017 – 2019 (approximate)
+2016 – 2018
 
 Regulated-environment provider support: issue research, resolution design, and quality-assurance discipline on difficult calls.
 
 ### Alorica — Commercial Account Specialist Sr. Rep
 
-2015 – 2017 (approximate)
+2015
 
 Senior commercial-account operations across Salesforce, RightNow, SharePoint, and internal platforms. End-to-end documentation of contracts, issues, and resolutions; first-call-resolution focus; escalation handling; recognized leadership contribution detailed above.
 
 ### Earlier Experience
 
 - TigerDirect.com — Customer Service Representative, 2008 – 2011
-- Doctors Diabetics — Medical Records Clerk, 2006
+
+## Selected Architecture Evidence
+
+- Florida Ramp & Lift FieldOps — operational pilot spanning job records, role-specific views, field evidence, safety steps, billing drafts, and approval gates.
+- VPL Flow — specified operations-system architecture spanning operational discovery, requirements, configuration and equipment identity, freight and custody records, permissions, lifecycle controls, and human-system boundaries.
+- VPL Flow is not represented as application code, a deployment, production operation, customer adoption, or a measured outcome. Private repository walkthroughs are available for qualified discussions.
 
 ## Certifications
 

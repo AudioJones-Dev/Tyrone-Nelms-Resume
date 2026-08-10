@@ -9,7 +9,7 @@ This is not a chronological resume; it is a positioning narrative.
 
 ## Approved Wording (first person)
 
-> I'm Tyrone Nelms, founder of AJ Digital — an operations and AI consulting practice for founder-led and service-based businesses.
+> I'm Tyrone Nelms, an Operations & Business Systems Architect and founder of AJ Digital.
 >
 > I started AJ Digital because I kept seeing the same problem from the inside: service businesses drowning in scattered tools, undocumented processes, and reactive workflows — while being sold technology that ignored how their work actually happens.
 >

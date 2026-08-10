@@ -8,15 +8,15 @@ Ready-to-use biography variants. These are the approved versions — please use 
 
 ## Short Bio (~40 words)
 
-> Tyrone Nelms is an operations and AI consultant and founder of AJ Digital, helping founder-led service businesses turn scattered tools and reactive workflows into clear operating systems. His 15+ year background spans enterprise customer operations, field service, digital marketing, and creative production.
+> Tyrone Nelms is an Operations & Business Systems Architect and founder of AJ Digital. He turns operational knowledge into requirements, process models, system specifications, and governed workflows, grounded in 15+ years across enterprise customer operations, field service, digital delivery, and creative production.
 
 ## Speaker Bio (host-read)
 
-> Tyrone Nelms is the founder of AJ Digital, an operations and AI consulting practice for founder-led and service-based businesses. Before consulting, he spent 15+ years inside the workflows he now redesigns — enterprise customer support, healthcare provider services, warehouse and office operations, field service for accessibility equipment, event production, and digital marketing. He speaks about practical AI adoption for service businesses, workflow documentation, and building evidence-based professional systems. He holds Google professional certificates in Project Management, UX Design, and Digital Marketing & E-commerce, and is based in Miami, Florida.
+> Tyrone Nelms is an Operations & Business Systems Architect and founder of AJ Digital. He spent 15+ years inside the workflows he now redesigns—enterprise customer support, healthcare provider services, warehouse and office operations, field service for accessibility equipment, event production, and digital delivery. He speaks about operational discovery, requirements engineering, practical AI adoption, workflow governance, and evidence-based systems. He holds Google professional certificates in Project Management, UX Design, and Digital Marketing & E-commerce and is based in Miami, Florida.
 
 ## Media Bio (publications)
 
-> Tyrone Nelms is the founder of AJ Digital, an operations and AI consulting practice that helps founder-led and service-based businesses replace scattered tools and reactive workflows with clear operating systems. His 15+ year background spans enterprise customer operations, healthcare provider services, field service for ADA and mobility equipment, digital marketing, and creative production — experience he credits for keeping his AI and automation work grounded in how service businesses actually operate. He holds Google professional certificates in Project Management, UX Design, and Digital Marketing & E-commerce. He is based in Miami, Florida.
+> Tyrone Nelms is an Operations & Business Systems Architect and founder of AJ Digital. He translates operational discovery into requirements, process models, system specifications, implementation plans, and governed AI-enabled workflows. His 15+ year background spans enterprise customer operations, healthcare provider services, field service for ADA and mobility equipment, digital delivery, and creative production—experience that keeps the architecture grounded in how work is actually performed. He holds Google professional certificates in Project Management, UX Design, and Digital Marketing & E-commerce and is based in Miami, Florida.
 
 ## More
 

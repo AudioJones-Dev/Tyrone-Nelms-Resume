@@ -2,7 +2,7 @@
 
 ## Overview
 
-AJ Digital designs the operational backbone of service businesses: documented processes, clear workflows, usable CRM systems, and handoffs that don't leak. Led by Tyrone Nelms (see `bios/consultant-bio.md`), whose operational record spans enterprise support, office administration, warehouse, sales, and field service.
+AJ Digital designs the operational backbone of service businesses: requirements, documented processes, clear information flows, usable business systems, and handoffs that do not leak. The practice is led by Operations & Business Systems Architect Tyrone Nelms (see `bios/consultant-bio.md`), whose operational record spans enterprise support, office administration, warehouse, sales, and field service.
 
 ## Ideal Client
 
@@ -18,14 +18,14 @@ Service businesses whose growth has outrun their processes — more customers, s
 
 ## Approach
 
-1. **Map the current state** — end-to-end walkthrough of the real workflow, including the workarounds.
-2. **Document** — SOPs and process maps in the team's own tools, written to survive turnover.
-3. **Redesign the failure points** — fix the specific handoffs and gaps the map exposes.
-4. **Instrument** — make status visible (CRM stages, task systems) so management stops depending on asking around.
+1. **Operational discovery** — capture actors, responsibilities, handoffs, rules, exceptions, constraints, information needs, current tools, and failure points.
+2. **Model the current state** — document the real workflow, workarounds, records, and decision points.
+3. **Design the future state** — define requirements, system boundaries, data needs, role-based views, controls, and acceptance criteria.
+4. **Specify and implement** — translate the design into applications, workflows, SOPs, and rollout plans, then iterate with users.
 
 ## Core Competencies
 
-Operations management · workflow management · SOP development · process improvement · escalation handling · quality assurance · resource and vendor coordination · training and mentoring (per `docs/skills.md`).
+Business analysis · requirements engineering · process and information modeling · systems analysis · application specification · systems implementation · operational controls · SOP development · stakeholder translation (per `docs/skills.md`).
 
 ## Relevant Experience
 

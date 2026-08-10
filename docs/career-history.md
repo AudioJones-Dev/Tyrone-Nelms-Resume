@@ -7,6 +7,7 @@ Public resumes should derive from this file, not from memory or disconnected res
 ## Source Status Legend
 
 - `verified` — appears in uploaded resumes or current professional record.
+- `approved_current` — explicitly approved by the operator as the current public record, superseding older conflicting source variants.
 - `needs_verification` — appears in one source but conflicts with another source or needs date/title confirmation.
 - `current_context` — supported by recent working context but should be reviewed before public release.
 
@@ -17,10 +18,9 @@ Public resumes should derive from this file, not from memory or disconnected res
 | Jan 2006 – Aug 2006 | Doctors Diabetics | Medical Records Clerk | verified | Data entry and record processing. |
 | Aug 2006 – Aug 2007 | AHLO Inc. | Warehouse Clerk | verified | Data entry, shipping, and receiving. |
 | Feb 2008 – Apr 2011 | TigerDirect.com | Customer Service Representative | verified | Inbound customer service, account management, low-level technical support, and inbound sales. |
-| Apr 2011 – Oct 2014 | AHLO Inc. | Office Administrator / Warehouse / Customer Operations | verified | Older resumes list Office Administrator and Warehouse Clerk responsibilities. Consolidate with later AHLO work for public resume use. |
-| Jan 2015 – fuzzy | Alorica | Commercial Account Specialist Sr. Rep | needs_verification | User confirmed exact end date is fuzzy because role was a long time ago. Keep as approximate until employment records are checked. |
-| fuzzy | UnitedHealthcare | Provider Services Representative | needs_verification | User confirmed exact end date is fuzzy. Source variants remain June 2017–April 2019 and October 2015–April 2018. Use approximate or year-only dates in public resume until verified. |
-| Multiple periods | AHLO Inc. | Consolidated Operations / Sales / Office Administration | verified_with_reconciliation_needed | User confirmed AHLO can be consolidated. Preserve source-period notes in the AHLO experience file. |
+| 2015 | Alorica | Commercial Account Specialist Sr. Rep | approved_current | Approved public chronology. Use year-only display. |
+| 2016 – 2018 | UnitedHealthcare | Provider Services Representative | approved_current | Approved public chronology. Use year-only display. |
+| 2019 – 2023 | AHLO Inc. | Operations / Sales / Office Administration | approved_current | Consolidate with the 2006–2007 period when a single AHLO entry is required. |
 | Apr 2020 – Present | Freelance / AJ Digital | Operations & Digital Marketing Specialist / Founder | verified | Strategic consultation, operations, marketing, project management, content creation, ad management, AI systems work. |
 | Feb 2022 – Present | Miami Spin 360 | Event Planner / Creative Operations | verified | Photo booth operations, photography, videography, event execution. |
 | Jul 2023 – Present | Florida Ramp & Lift | Independent Contractor — ADA & Mobile Lift Technician / Marketing & Operations Professional | verified_current | User confirmed current service as an independent contractor. |
@@ -46,12 +46,10 @@ Status: confirmed final for public use (2026-07-08).
 ## Resolved Decisions
 
 - 2026-07-08 — Public contact details above are final.
-- 2026-07-08 — Fuzzy older roles (Alorica, UnitedHealthcare) use year-only / approximate dates in public resumes until employment records are verified.
 - 2026-07-08 — The unverified 20% cost reduction (Florida Ramp & Lift) and 15% productivity (AHLO) claims are excluded from resume variants until evidence exists. They remain tracked in `docs/accomplishments.md` under Metrics to Verify.
+- 2026-08-10 — Approved public chronology supersedes older conflicting résumé variants: AHLO 2006–2007 and 2019–2023; TigerDirect 2008–2011; Alorica 2015; UnitedHealthcare 2016–2018.
 
 ## Open Questions
 
-- Verify final Alorica end date from records if possible.
-- Verify UnitedHealthcare exact start and end dates from records if possible.
 - Confirm whether AJ Digital should be listed as company founder, consultant, or freelance brand for each resume variant.
 - Confirm LinkedIn and portfolio URLs.

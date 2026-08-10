@@ -9,7 +9,7 @@ This repository is designed to maintain one verified professional record and gen
 Outputs may include:
 
 - Master resume
-- AI Operations Consultant resume
+- AI & Business Systems Architect resume (legacy file path retained)
 - Operations Manager resume
 - Project Manager resume
 - Customer Success resume

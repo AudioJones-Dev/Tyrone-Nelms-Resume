@@ -58,9 +58,10 @@ Each story is a skeleton to rehearse, not a script. All are built only from veri
 
 ## Handling Known Soft Spots
 
-Honest, prepared answers for the things the record genuinely leaves fuzzy:
+Honest, prepared answers for evidence boundaries and source-history questions:
 
-- **"Your dates for Alorica/UnitedHealthcare are approximate?"** — Yes; these roles ended years ago and I list them year-only rather than guess precision. Exact records can be verified through employment verification if needed. (Matches the Resolved Decisions in `career-history.md`.)
+- **"Why do older résumé copies show different dates?"** — Older drafts contained conflicting source variants. My approved public chronology is AHLO 2006–2007 and 2019–2023, TigerDirect 2008–2011, Alorica 2015, and UnitedHealthcare 2016–2018. I use that chronology consistently across current materials.
+- **"Is VPL Flow deployed software?"** — No. It is specified operations-system architecture: requirements, operating model, domain model, permissions, lifecycle controls, and architectural decisions. I do not claim application code, deployment, production use, customer adoption, or measured outcomes.
 - **"You had overlapping roles?"** — Correct: AJ Digital, Miami Spin 360, and Florida Ramp & Lift are concurrent by design — a consulting practice, a creative-production engagement, and a field-service contract. That mix is the point of the positioning, not an inconsistency.
 - **"Why no degree?"** — High school diploma (American Academy, 2005) plus three Google professional certificates (UX Design, Project Management, Digital Marketing & E-commerce) with verification links, plus 15+ years of record. Lead with the record.
 - **"What did you *measurably* improve?"** — Verified: Alorica performance record (awards, adherence, attendance). Client-side metrics are being formalized as case studies with client approval; I don't quote numbers I can't back.
