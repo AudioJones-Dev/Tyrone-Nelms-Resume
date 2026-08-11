@@ -28,6 +28,7 @@ Positioning and reuse layer above the canonical records — artifacts derive fra
 - [Interview Playbook](interview-playbook.md) — STAR stories, soft-spot answers, question maps
 - [Case Studies](case-studies.md) — candidate pipeline, publication gates, template
 - [Public Surfaces](public-surfaces.md) — registry of live web properties, audience boundaries, claim rules
+- [Surface Reconciliation — 2026-08-11](surface-reconciliation-2026-08-11.md) — audit of the live sites against the canonical record
 
 ## Experience Source Records (`experience/`)
 

@@ -16,7 +16,7 @@ Surfaces are **deployment targets**, exactly like `linkedin/` and `site/`. Canon
 | Surface | Audience | Owner entity | Governed by | Status |
 |---|---|---|---|---|
 | [tyronenelms.com](https://tyronenelms.com) | Employers, hiring managers, recruiters | Tyrone Nelms (individual) | This repository | `verified` — live |
-| [audiojones.com](https://audiojones.com) | Prospective consulting clients | AJ Digital LLC (Audio Jones brand) | Commercial brand; **not** this repository | `verified` — live |
+| [audiojones.com](https://audiojones.com) | Prospective consulting clients | AJ Digital LLC (Audio Jones brand) | Owned by the commercial entity; register and case-study gates governed by `professional-brand.md` Channel Rules | `verified` — live |
 | GitHub Pages portal (`site/`) | Employers; documentation depth | Tyrone Nelms (individual) | This repository | `needs_verification` — deploy status unconfirmed |
 | [LinkedIn](https://www.linkedin.com/in/audiojones) | Employers, recruiters, network | Tyrone Nelms (individual) | `linkedin/` in this repository | `verified` — live |
 | [GitHub org](https://github.com/AudioJones-Dev) | Technical evaluators | Tyrone Nelms (individual) | Evidence repositories | `verified` — live |
@@ -35,7 +35,9 @@ Observations of live site content in this file were recorded 2026-08-11. Re-veri
 
 ## audiojones.com — Commercial Brand Surface
 
-**Entity:** an operating brand of AJ Digital LLC, serving founder-led businesses. Positioning is built around a signal/noise thesis, with service lines including ResponseOS, Founder Intelligence Systems, an AI readiness diagnostic, and an ROI calculator.
+**Entity:** an operating brand of AJ Digital LLC, serving founder-led businesses.
+
+**Governance note:** this surface is not outside the brand system. `professional-brand.md` Channel Rules already assigns it a register ("plain-business, client-outcome-first") and a constraint ("Case studies only per `case-studies.md` gates"). It is owned by the commercial entity, but the canonical brand rules claim authority over how it makes claims. Positioning is built around a signal/noise thesis, with service lines including ResponseOS, Founder Intelligence Systems, an AI readiness diagnostic, and an ROI calculator.
 
 **This surface is evidence that AJ Digital exists and operates as a real consultancy with defined service lines.** That is genuinely useful — it substantiates the consulting entity referenced in `experience/aj-digital.md`. It is legitimate to reference for that purpose.
 
@@ -58,6 +60,10 @@ Do not send audiojones.com as the portfolio link for an employment application. 
 The `site/` folder deploys to GitHub Pages and carries no `CNAME`, so it does **not** serve `tyronenelms.com` — the two are independent properties. Per `site/README.md` the deploy workflow is manual-dispatch and requires Pages to be enabled in repository settings; whether a successful deploy has occurred is unconfirmed.
 
 **Overlap warning:** the portal and tyronenelms.com address the same audience with the same positioning. Two employer-facing surfaces that can drift apart is a maintenance liability. Until that is resolved, treat tyronenelms.com as primary and the portal as documentation depth for technical evaluators who want to read the underlying record. Resolving the overlap — retire, redirect, or formally differentiate — is an open decision, not something to settle silently.
+
+## Reconciliation Status
+
+A full audit of both live surfaces against the canonical record was completed 2026-08-11: [`surface-reconciliation-2026-08-11.md`](surface-reconciliation-2026-08-11.md). It supersedes the open items below with a severity-ranked findings list, including a `needs_verification` on the portfolio URL still marked "pending" across seven files.
 
 ## Open Verification Items
 
