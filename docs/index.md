@@ -27,6 +27,7 @@ Positioning and reuse layer above the canonical records — artifacts derive fra
 - [Achievement Library](achievement-library.md) — evidence-tiered achievements and reusable phrasings
 - [Interview Playbook](interview-playbook.md) — STAR stories, soft-spot answers, question maps
 - [Case Studies](case-studies.md) — candidate pipeline, publication gates, template
+- [Public Surfaces](public-surfaces.md) — registry of live web properties, audience boundaries, claim rules
 
 ## Experience Source Records (`experience/`)
 
