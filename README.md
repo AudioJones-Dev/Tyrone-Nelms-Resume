@@ -48,6 +48,7 @@ Naming note: this repository began as the "Career OS" (see CHANGELOG v0.1). It w
 - `bios/` — short, founder, consultant, speaker, and media bios plus the executive summary.
 - `capability-statements/` — AJ Digital service-line capability statements.
 - `site/` — curated GitHub Pages portal (deployment target; see `site/README.md`).
+- `docs/public-surfaces.md` — registry of live public web properties (tyronenelms.com, audiojones.com, LinkedIn, GitHub), their audience boundaries, and the claim rules governing each.
 - `templates/` — reusable content templates.
 - `exports/` — generated PDF, DOCX, and HTML outputs (via `scripts/export_resumes.py`).
 
